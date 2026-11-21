@@ -1,0 +1,4418 @@
+{
+  "version": "1.0.0",
+  "count": 100,
+  "palettes": [
+    {
+      "id": 1,
+      "number": "001",
+      "name": "紫黄电波",
+      "category": "一、高视觉冲击撞色（20组）",
+      "colors": [
+        {
+          "name": "帝王紫",
+          "hex": "#6A0DAD"
+        },
+        {
+          "name": "柠檬黄",
+          "hex": "#FFF300"
+        }
+      ],
+      "topics": [
+        "科技",
+        "创意",
+        "活动"
+      ],
+      "moods": [
+        "兴奋",
+        "大胆"
+      ],
+      "purposes": [
+        "发布",
+        "作品展示"
+      ],
+      "intensity": 5,
+      "bg_tone": "dark",
+      "bg_luminance": 0.0637,
+      "roles": {
+        "background": "#6A0DAD",
+        "title": "#FFF300",
+        "body": "#FFF300",
+        "accent": "#FFF300",
+        "title_contrast": 7.95,
+        "large_only": false
+      },
+      "usage": "底色用帝王紫，标题用柠檬黄，柠檬黄作少量点缀。"
+    },
+    {
+      "id": 2,
+      "number": "002",
+      "name": "莓夜霓虹",
+      "category": "一、高视觉冲击撞色（20组）",
+      "colors": [
+        {
+          "name": "树莓粉",
+          "hex": "#E63A7A"
+        },
+        {
+          "name": "哑光炭黑",
+          "hex": "#1A191E"
+        }
+      ],
+      "topics": [
+        "消费",
+        "设计",
+        "活动"
+      ],
+      "moods": [
+        "年轻",
+        "锋利"
+      ],
+      "purposes": [
+        "发布",
+        "作品展示"
+      ],
+      "intensity": 5,
+      "bg_tone": "dark",
+      "bg_luminance": 0.0101,
+      "roles": {
+        "background": "#1A191E",
+        "title": "#E63A7A",
+        "body": "#FFFFFF",
+        "accent": "#E63A7A",
+        "title_contrast": 4.37,
+        "large_only": true
+      },
+      "usage": "底色用哑光炭黑，标题用树莓粉，树莓粉作少量点缀。标题只适合大字，小字另用正文色。"
+    },
+    {
+      "id": 3,
+      "number": "003",
+      "name": "青柠脉冲",
+      "category": "一、高视觉冲击撞色（20组）",
+      "colors": [
+        {
+          "name": "青柠绿",
+          "hex": "#BFFF00"
+        },
+        {
+          "name": "炭黑灰",
+          "hex": "#222222"
+        }
+      ],
+      "topics": [
+        "科技",
+        "效率",
+        "运动"
+      ],
+      "moods": [
+        "有力",
+        "大胆"
+      ],
+      "purposes": [
+        "发布",
+        "教程"
+      ],
+      "intensity": 5,
+      "bg_tone": "dark",
+      "bg_luminance": 0.016,
+      "roles": {
+        "background": "#222222",
+        "title": "#BFFF00",
+        "body": "#BFFF00",
+        "accent": "#BFFF00",
+        "title_contrast": 13.27,
+        "large_only": false
+      },
+      "usage": "底色用炭黑灰，标题用青柠绿，青柠绿作少量点缀。"
+    },
+    {
+      "id": 4,
+      "number": "004",
+      "name": "薄荷樱桃",
+      "category": "一、高视觉冲击撞色（20组）",
+      "colors": [
+        {
+          "name": "冰薄荷绿",
+          "hex": "#98FF98"
+        },
+        {
+          "name": "樱桃红",
+          "hex": "#D2042D"
+        }
+      ],
+      "topics": [
+        "饮食",
+        "生活",
+        "设计"
+      ],
+      "moods": [
+        "清爽",
+        "活泼"
+      ],
+      "purposes": [
+        "分享",
+        "发布"
+      ],
+      "intensity": 4,
+      "bg_tone": "light",
+      "bg_luminance": 0.8046,
+      "roles": {
+        "background": "#98FF98",
+        "title": "#D2042D",
+        "body": "#D2042D",
+        "accent": "#D2042D",
+        "title_contrast": 4.5,
+        "large_only": false
+      },
+      "usage": "底色用冰薄荷绿，标题用樱桃红，樱桃红作少量点缀。"
+    },
+    {
+      "id": 5,
+      "number": "005",
+      "name": "樱色森林",
+      "category": "一、高视觉冲击撞色（20组）",
+      "colors": [
+        {
+          "name": "樱花粉",
+          "hex": "#FFB7C5"
+        },
+        {
+          "name": "墨绿色",
+          "hex": "#014421"
+        }
+      ],
+      "topics": [
+        "生活",
+        "自然",
+        "消费"
+      ],
+      "moods": [
+        "浪漫",
+        "温暖"
+      ],
+      "purposes": [
+        "分享",
+        "叙事"
+      ],
+      "intensity": 3,
+      "bg_tone": "dark",
+      "bg_luminance": 0.0425,
+      "roles": {
+        "background": "#014421",
+        "title": "#FFB7C5",
+        "body": "#FFB7C5",
+        "accent": "#FFB7C5",
+        "title_contrast": 6.94,
+        "large_only": false
+      },
+      "usage": "底色用墨绿色，标题用樱花粉，樱花粉作少量点缀。"
+    },
+    {
+      "id": 6,
+      "number": "006",
+      "name": "蓝橙节拍",
+      "category": "一、高视觉冲击撞色（20组）",
+      "colors": [
+        {
+          "name": "钴蓝",
+          "hex": "#0047FF"
+        },
+        {
+          "name": "橘光橙",
+          "hex": "#FF7A00"
+        }
+      ],
+      "topics": [
+        "科技",
+        "创业",
+        "设计"
+      ],
+      "moods": [
+        "有力",
+        "明快"
+      ],
+      "purposes": [
+        "发布",
+        "解释"
+      ],
+      "intensity": 5,
+      "bg_tone": "dark",
+      "bg_luminance": 0.1173,
+      "roles": {
+        "background": "#0047FF",
+        "title": "#FFFFFF",
+        "body": "#FFFFFF",
+        "accent": "#FF7A00",
+        "title_contrast": 6.28,
+        "large_only": false
+      },
+      "usage": "底色用钴蓝，标题用辅助字色，橘光橙作少量点缀。标题字色是为读字补的中性色，不计入原配色。"
+    },
+    {
+      "id": 7,
+      "number": "007",
+      "name": "湖畔珊瑚",
+      "category": "一、高视觉冲击撞色（20组）",
+      "colors": [
+        {
+          "name": "湖水蓝",
+          "hex": "#4ED7F1"
+        },
+        {
+          "name": "珊瑚红",
+          "hex": "#FF5A5F"
+        }
+      ],
+      "topics": [
+        "旅行",
+        "生活",
+        "消费"
+      ],
+      "moods": [
+        "清爽",
+        "轻松"
+      ],
+      "purposes": [
+        "分享",
+        "发布"
+      ],
+      "intensity": 4,
+      "bg_tone": "light",
+      "bg_luminance": 0.5657,
+      "roles": {
+        "background": "#4ED7F1",
+        "title": "#000000",
+        "body": "#000000",
+        "accent": "#FF5A5F",
+        "title_contrast": 12.31,
+        "large_only": false
+      },
+      "usage": "底色用湖水蓝，标题用辅助字色，珊瑚红作少量点缀。标题字色是为读字补的中性色，不计入原配色。"
+    },
+    {
+      "id": 8,
+      "number": "008",
+      "name": "橙调夜航",
+      "category": "一、高视觉冲击撞色（20组）",
+      "colors": [
+        {
+          "name": "爱马仕橙",
+          "hex": "#FC8416"
+        },
+        {
+          "name": "藏蓝色",
+          "hex": "#000035"
+        }
+      ],
+      "topics": [
+        "商业",
+        "消费",
+        "旅行"
+      ],
+      "moods": [
+        "沉稳",
+        "温暖"
+      ],
+      "purposes": [
+        "发布",
+        "解释"
+      ],
+      "intensity": 4,
+      "bg_tone": "dark",
+      "bg_luminance": 0.0026,
+      "roles": {
+        "background": "#000035",
+        "title": "#FC8416",
+        "body": "#FC8416",
+        "accent": "#FC8416",
+        "title_contrast": 8.03,
+        "large_only": false
+      },
+      "usage": "底色用藏蓝色，标题用爱马仕橙，爱马仕橙作少量点缀。"
+    },
+    {
+      "id": 9,
+      "number": "009",
+      "name": "蓝绿反差",
+      "category": "一、高视觉冲击撞色（20组）",
+      "colors": [
+        {
+          "name": "克莱因蓝",
+          "hex": "#022A99"
+        },
+        {
+          "name": "绿茶",
+          "hex": "#B7F800"
+        }
+      ],
+      "topics": [
+        "科技",
+        "效率",
+        "创意"
+      ],
+      "moods": [
+        "大胆",
+        "兴奋"
+      ],
+      "purposes": [
+        "发布",
+        "作品展示"
+      ],
+      "intensity": 5,
+      "bg_tone": "dark",
+      "bg_luminance": 0.0397,
+      "roles": {
+        "background": "#022A99",
+        "title": "#B7F800",
+        "body": "#B7F800",
+        "accent": "#B7F800",
+        "title_contrast": 9.16,
+        "large_only": false
+      },
+      "usage": "底色用克莱因蓝，标题用绿茶，绿茶作少量点缀。"
+    },
+    {
+      "id": 10,
+      "number": "010",
+      "name": "靛蓝玫影",
+      "category": "一、高视觉冲击撞色（20组）",
+      "colors": [
+        {
+          "name": "青金石",
+          "hex": "#01008A"
+        },
+        {
+          "name": "洋红",
+          "hex": "#FF0086"
+        }
+      ],
+      "topics": [
+        "设计",
+        "音乐",
+        "活动"
+      ],
+      "moods": [
+        "神秘",
+        "大胆"
+      ],
+      "purposes": [
+        "作品展示",
+        "发布"
+      ],
+      "intensity": 5,
+      "bg_tone": "dark",
+      "bg_luminance": 0.0184,
+      "roles": {
+        "background": "#01008A",
+        "title": "#FF0086",
+        "body": "#FFFFFF",
+        "accent": "#FF0086",
+        "title_contrast": 4.09,
+        "large_only": true
+      },
+      "usage": "底色用青金石，标题用洋红，洋红作少量点缀。标题只适合大字，小字另用正文色。"
+    },
+    {
+      "id": 11,
+      "number": "011",
+      "name": "紫色闪光",
+      "category": "一、高视觉冲击撞色（20组）",
+      "colors": [
+        {
+          "name": "晶石紫",
+          "hex": "#690DAD"
+        },
+        {
+          "name": "柠檬黄",
+          "hex": "#FFFF00"
+        }
+      ],
+      "topics": [
+        "创意",
+        "教育",
+        "活动"
+      ],
+      "moods": [
+        "明快",
+        "兴奋"
+      ],
+      "purposes": [
+        "发布",
+        "教程"
+      ],
+      "intensity": 5,
+      "bg_tone": "dark",
+      "bg_luminance": 0.0631,
+      "roles": {
+        "background": "#690DAD",
+        "title": "#FFFF00",
+        "body": "#FFFF00",
+        "accent": "#FFFF00",
+        "title_contrast": 8.65,
+        "large_only": false
+      },
+      "usage": "底色用晶石紫，标题用柠檬黄，柠檬黄作少量点缀。"
+    },
+    {
+      "id": 12,
+      "number": "012",
+      "name": "绯红夜色",
+      "category": "一、高视觉冲击撞色（20组）",
+      "colors": [
+        {
+          "name": "绯红",
+          "hex": "#E41726"
+        },
+        {
+          "name": "藏蓝色",
+          "hex": "#000035"
+        }
+      ],
+      "topics": [
+        "财经",
+        "商业",
+        "文化"
+      ],
+      "moods": [
+        "坚定",
+        "沉稳"
+      ],
+      "purposes": [
+        "解释",
+        "发布"
+      ],
+      "intensity": 4,
+      "bg_tone": "dark",
+      "bg_luminance": 0.0026,
+      "roles": {
+        "background": "#000035",
+        "title": "#E41726",
+        "body": "#FFFFFF",
+        "accent": "#E41726",
+        "title_contrast": 4.23,
+        "large_only": true
+      },
+      "usage": "底色用藏蓝色，标题用绯红，绯红作少量点缀。标题只适合大字，小字另用正文色。"
+    },
+    {
+      "id": 13,
+      "number": "013",
+      "name": "晴空明黄",
+      "category": "一、高视觉冲击撞色（20组）",
+      "colors": [
+        {
+          "name": "靓丽黄",
+          "hex": "#FFFF00"
+        },
+        {
+          "name": "海蓝",
+          "hex": "#0084D6"
+        }
+      ],
+      "topics": [
+        "教育",
+        "旅行",
+        "生活"
+      ],
+      "moods": [
+        "明快",
+        "清爽"
+      ],
+      "purposes": [
+        "教程",
+        "分享"
+      ],
+      "intensity": 4,
+      "bg_tone": "dark",
+      "bg_luminance": 0.2136,
+      "roles": {
+        "background": "#0084D6",
+        "title": "#FFFF00",
+        "body": "#000000",
+        "accent": "#FFFF00",
+        "title_contrast": 3.71,
+        "large_only": true
+      },
+      "usage": "底色用海蓝，标题用靓丽黄，靓丽黄作少量点缀。标题只适合大字，小字另用正文色。"
+    },
+    {
+      "id": 14,
+      "number": "014",
+      "name": "熔岩深绿",
+      "category": "一、高视觉冲击撞色（20组）",
+      "colors": [
+        {
+          "name": "深灰绿",
+          "hex": "#003D37"
+        },
+        {
+          "name": "熔岩",
+          "hex": "#EB4743"
+        }
+      ],
+      "topics": [
+        "自然",
+        "文化",
+        "设计"
+      ],
+      "moods": [
+        "沉稳",
+        "有力"
+      ],
+      "purposes": [
+        "叙事",
+        "作品展示"
+      ],
+      "intensity": 4,
+      "bg_tone": "dark",
+      "bg_luminance": 0.0361,
+      "roles": {
+        "background": "#003D37",
+        "title": "#EB4743",
+        "body": "#FFFFFF",
+        "accent": "#EB4743",
+        "title_contrast": 3.2,
+        "large_only": true
+      },
+      "usage": "底色用深灰绿，标题用熔岩，熔岩作少量点缀。标题只适合大字，小字另用正文色。"
+    },
+    {
+      "id": 15,
+      "number": "015",
+      "name": "黑夜炽焰",
+      "category": "一、高视觉冲击撞色（20组）",
+      "colors": [
+        {
+          "name": "炽焰红",
+          "hex": "#E61A23"
+        },
+        {
+          "name": "迷雾黑",
+          "hex": "#0A090C"
+        }
+      ],
+      "topics": [
+        "运动",
+        "活动",
+        "商业"
+      ],
+      "moods": [
+        "有力",
+        "兴奋"
+      ],
+      "purposes": [
+        "发布",
+        "作品展示"
+      ],
+      "intensity": 5,
+      "bg_tone": "dark",
+      "bg_luminance": 0.0029,
+      "roles": {
+        "background": "#0A090C",
+        "title": "#E61A23",
+        "body": "#FFFFFF",
+        "accent": "#E61A23",
+        "title_contrast": 4.29,
+        "large_only": true
+      },
+      "usage": "底色用迷雾黑，标题用炽焰红，炽焰红作少量点缀。标题只适合大字，小字另用正文色。"
+    },
+    {
+      "id": 16,
+      "number": "016",
+      "name": "深海日光",
+      "category": "一、高视觉冲击撞色（20组）",
+      "colors": [
+        {
+          "name": "深海宝蓝",
+          "hex": "#002FA7"
+        },
+        {
+          "name": "阳光柠黄",
+          "hex": "#FFCF14"
+        }
+      ],
+      "topics": [
+        "科技",
+        "财经",
+        "教育"
+      ],
+      "moods": [
+        "坚定",
+        "明快"
+      ],
+      "purposes": [
+        "解释",
+        "教程"
+      ],
+      "intensity": 4,
+      "bg_tone": "dark",
+      "bg_luminance": 0.0482,
+      "roles": {
+        "background": "#002FA7",
+        "title": "#FFCF14",
+        "body": "#FFCF14",
+        "accent": "#FFCF14",
+        "title_contrast": 7.22,
+        "large_only": false
+      },
+      "usage": "底色用深海宝蓝，标题用阳光柠黄，阳光柠黄作少量点缀。"
+    },
+    {
+      "id": 17,
+      "number": "017",
+      "name": "莓红暗场",
+      "category": "一、高视觉冲击撞色（20组）",
+      "colors": [
+        {
+          "name": "玫红色",
+          "hex": "#EC2C64"
+        },
+        {
+          "name": "炭黑色",
+          "hex": "#121212"
+        }
+      ],
+      "topics": [
+        "消费",
+        "设计",
+        "活动"
+      ],
+      "moods": [
+        "年轻",
+        "锋利"
+      ],
+      "purposes": [
+        "发布",
+        "作品展示"
+      ],
+      "intensity": 5,
+      "bg_tone": "dark",
+      "bg_luminance": 0.006,
+      "roles": {
+        "background": "#121212",
+        "title": "#EC2C64",
+        "body": "#EC2C64",
+        "accent": "#EC2C64",
+        "title_contrast": 4.56,
+        "large_only": false
+      },
+      "usage": "底色用炭黑色，标题用玫红色，玫红色作少量点缀。"
+    },
+    {
+      "id": 18,
+      "number": "018",
+      "name": "薄荷可可",
+      "category": "一、高视觉冲击撞色（20组）",
+      "colors": [
+        {
+          "name": "薄荷青",
+          "hex": "#BBF0EA"
+        },
+        {
+          "name": "巧克力棕",
+          "hex": "#8D4726"
+        }
+      ],
+      "topics": [
+        "饮食",
+        "生活",
+        "自然"
+      ],
+      "moods": [
+        "清爽",
+        "温暖"
+      ],
+      "purposes": [
+        "分享",
+        "叙事"
+      ],
+      "intensity": 2,
+      "bg_tone": "light",
+      "bg_luminance": 0.7883,
+      "roles": {
+        "background": "#BBF0EA",
+        "title": "#8D4726",
+        "body": "#8D4726",
+        "accent": "#8D4726",
+        "title_contrast": 5.48,
+        "large_only": false
+      },
+      "usage": "底色用薄荷青，标题用巧克力棕，巧克力棕作少量点缀。"
+    },
+    {
+      "id": 19,
+      "number": "019",
+      "name": "极夜瀑布",
+      "category": "一、高视觉冲击撞色（20组）",
+      "colors": [
+        {
+          "name": "极夜黑",
+          "hex": "#000000"
+        },
+        {
+          "name": "瀑布蓝",
+          "hex": "#51C4D3"
+        }
+      ],
+      "topics": [
+        "科技",
+        "旅行",
+        "设计"
+      ],
+      "moods": [
+        "冷静",
+        "神秘"
+      ],
+      "purposes": [
+        "解释",
+        "作品展示"
+      ],
+      "intensity": 3,
+      "bg_tone": "dark",
+      "bg_luminance": 0.0,
+      "roles": {
+        "background": "#000000",
+        "title": "#51C4D3",
+        "body": "#51C4D3",
+        "accent": "#51C4D3",
+        "title_contrast": 10.19,
+        "large_only": false
+      },
+      "usage": "底色用极夜黑，标题用瀑布蓝，瀑布蓝作少量点缀。"
+    },
+    {
+      "id": 20,
+      "number": "020",
+      "name": "暗夜橙光",
+      "category": "一、高视觉冲击撞色（20组）",
+      "colors": [
+        {
+          "name": "爱马仕橙",
+          "hex": "#FF770F"
+        },
+        {
+          "name": "深空黑",
+          "hex": "#1A1A1A"
+        }
+      ],
+      "topics": [
+        "商业",
+        "创业",
+        "活动"
+      ],
+      "moods": [
+        "有力",
+        "大胆"
+      ],
+      "purposes": [
+        "发布",
+        "解释"
+      ],
+      "intensity": 5,
+      "bg_tone": "dark",
+      "bg_luminance": 0.0103,
+      "roles": {
+        "background": "#1A1A1A",
+        "title": "#FF770F",
+        "body": "#FF770F",
+        "accent": "#FF770F",
+        "title_contrast": 6.55,
+        "large_only": false
+      },
+      "usage": "底色用深空黑，标题用爱马仕橙，爱马仕橙作少量点缀。"
+    },
+    {
+      "id": 21,
+      "number": "021",
+      "name": "红黑经典",
+      "category": "二、经典高级感三色组合（25组）",
+      "colors": [
+        {
+          "name": "卡地亚红",
+          "hex": "#A42423"
+        },
+        {
+          "name": "曜石黑",
+          "hex": "#020100"
+        },
+        {
+          "name": "奶霜白",
+          "hex": "#FFF2DF"
+        }
+      ],
+      "topics": [
+        "商业",
+        "财经",
+        "消费"
+      ],
+      "moods": [
+        "沉稳",
+        "坚定"
+      ],
+      "purposes": [
+        "解释",
+        "发布"
+      ],
+      "intensity": 3,
+      "bg_tone": "dark",
+      "bg_luminance": 0.0003,
+      "roles": {
+        "background": "#020100",
+        "title": "#FFF2DF",
+        "body": "#FFF2DF",
+        "accent": "#A42423",
+        "title_contrast": 18.9,
+        "large_only": false
+      },
+      "usage": "底色用曜石黑，标题用奶霜白，卡地亚红作少量点缀。"
+    },
+    {
+      "id": 22,
+      "number": "022",
+      "name": "橙棕暖意",
+      "category": "二、经典高级感三色组合（25组）",
+      "colors": [
+        {
+          "name": "爱马仕橙",
+          "hex": "#FF8A00"
+        },
+        {
+          "name": "焦糖棕",
+          "hex": "#6E3F1E"
+        },
+        {
+          "name": "乳白",
+          "hex": "#F3F3F3"
+        }
+      ],
+      "topics": [
+        "饮食",
+        "消费",
+        "生活"
+      ],
+      "moods": [
+        "温暖",
+        "放松"
+      ],
+      "purposes": [
+        "分享",
+        "叙事"
+      ],
+      "intensity": 3,
+      "bg_tone": "light",
+      "bg_luminance": 0.8963,
+      "roles": {
+        "background": "#F3F3F3",
+        "title": "#6E3F1E",
+        "body": "#6E3F1E",
+        "accent": "#FF8A00",
+        "title_contrast": 7.91,
+        "large_only": false
+      },
+      "usage": "底色用乳白，标题用焦糖棕，爱马仕橙作少量点缀。"
+    },
+    {
+      "id": 23,
+      "number": "023",
+      "name": "蓝湾微光",
+      "category": "二、经典高级感三色组合（25组）",
+      "colors": [
+        {
+          "name": "普鲁士蓝",
+          "hex": "#003153"
+        },
+        {
+          "name": "新桥色",
+          "hex": "#59B9C6"
+        },
+        {
+          "name": "象牙白",
+          "hex": "#FFFBF0"
+        }
+      ],
+      "topics": [
+        "旅行",
+        "科技",
+        "生活"
+      ],
+      "moods": [
+        "清爽",
+        "冷静"
+      ],
+      "purposes": [
+        "分享",
+        "解释"
+      ],
+      "intensity": 2,
+      "bg_tone": "light",
+      "bg_luminance": 0.9655,
+      "roles": {
+        "background": "#FFFBF0",
+        "title": "#003153",
+        "body": "#003153",
+        "accent": "#59B9C6",
+        "title_contrast": 12.99,
+        "large_only": false
+      },
+      "usage": "底色用象牙白，标题用普鲁士蓝，新桥色作少量点缀。"
+    },
+    {
+      "id": 24,
+      "number": "024",
+      "name": "陶土青瓷",
+      "category": "二、经典高级感三色组合（25组）",
+      "colors": [
+        {
+          "name": "提香红",
+          "hex": "#B05B24"
+        },
+        {
+          "name": "豆沙",
+          "hex": "#461D1B"
+        },
+        {
+          "name": "鸭卵青",
+          "hex": "#E4EEE6"
+        }
+      ],
+      "topics": [
+        "文化",
+        "手作",
+        "饮食"
+      ],
+      "moods": [
+        "怀旧",
+        "温暖"
+      ],
+      "purposes": [
+        "叙事",
+        "分享"
+      ],
+      "intensity": 2,
+      "bg_tone": "light",
+      "bg_luminance": 0.8336,
+      "roles": {
+        "background": "#E4EEE6",
+        "title": "#461D1B",
+        "body": "#461D1B",
+        "accent": "#B05B24",
+        "title_contrast": 12.17,
+        "large_only": false
+      },
+      "usage": "底色用鸭卵青，标题用豆沙，提香红作少量点缀。"
+    },
+    {
+      "id": 25,
+      "number": "025",
+      "name": "林间玄青",
+      "category": "二、经典高级感三色组合（25组）",
+      "colors": [
+        {
+          "name": "保罗绿",
+          "hex": "#1B5523"
+        },
+        {
+          "name": "玄青",
+          "hex": "#3B3C50"
+        },
+        {
+          "name": "芡食白",
+          "hex": "#E2E1E6"
+        }
+      ],
+      "topics": [
+        "自然",
+        "文化",
+        "生活"
+      ],
+      "moods": [
+        "安静",
+        "沉稳"
+      ],
+      "purposes": [
+        "分享",
+        "叙事"
+      ],
+      "intensity": 2,
+      "bg_tone": "light",
+      "bg_luminance": 0.7573,
+      "roles": {
+        "background": "#E2E1E6",
+        "title": "#3B3C50",
+        "body": "#3B3C50",
+        "accent": "#1B5523",
+        "title_contrast": 8.29,
+        "large_only": false
+      },
+      "usage": "底色用芡食白，标题用玄青，保罗绿作少量点缀。"
+    },
+    {
+      "id": 26,
+      "number": "026",
+      "name": "酒红旧梦",
+      "category": "二、经典高级感三色组合（25组）",
+      "colors": [
+        {
+          "name": "波尔多红",
+          "hex": "#4A010A"
+        },
+        {
+          "name": "LV棕",
+          "hex": "#592F23"
+        },
+        {
+          "name": "米汤骄",
+          "hex": "#FCF5E2"
+        }
+      ],
+      "topics": [
+        "文化",
+        "阅读",
+        "生活"
+      ],
+      "moods": [
+        "怀旧",
+        "安静"
+      ],
+      "purposes": [
+        "叙事",
+        "作品展示"
+      ],
+      "intensity": 2,
+      "bg_tone": "light",
+      "bg_luminance": 0.9149,
+      "roles": {
+        "background": "#FCF5E2",
+        "title": "#4A010A",
+        "body": "#4A010A",
+        "accent": "#592F23",
+        "title_contrast": 14.84,
+        "large_only": false
+      },
+      "usage": "底色用米汤骄，标题用波尔多红，LV棕作少量点缀。"
+    },
+    {
+      "id": 27,
+      "number": "027",
+      "name": "夜海沙红",
+      "category": "二、经典高级感三色组合（25组）",
+      "colors": [
+        {
+          "name": "夜海蓝",
+          "hex": "#0E4258"
+        },
+        {
+          "name": "沙漠红",
+          "hex": "#992E34"
+        },
+        {
+          "name": "月苍白",
+          "hex": "#F9F6E5"
+        }
+      ],
+      "topics": [
+        "财经",
+        "商业",
+        "旅行"
+      ],
+      "moods": [
+        "沉稳",
+        "克制"
+      ],
+      "purposes": [
+        "解释",
+        "叙事"
+      ],
+      "intensity": 2,
+      "bg_tone": "dark",
+      "bg_luminance": 0.0469,
+      "roles": {
+        "background": "#0E4258",
+        "title": "#F9F6E5",
+        "body": "#F9F6E5",
+        "accent": "#992E34",
+        "title_contrast": 9.98,
+        "large_only": false
+      },
+      "usage": "底色用夜海蓝，标题用月苍白，沙漠红作少量点缀。"
+    },
+    {
+      "id": 28,
+      "number": "028",
+      "name": "番茄奶油",
+      "category": "二、经典高级感三色组合（25组）",
+      "colors": [
+        {
+          "name": "番茄红",
+          "hex": "#D7391E"
+        },
+        {
+          "name": "碳灰",
+          "hex": "#343635"
+        },
+        {
+          "name": "奶油白",
+          "hex": "#F5F2EB"
+        }
+      ],
+      "topics": [
+        "饮食",
+        "消费",
+        "生活"
+      ],
+      "moods": [
+        "温暖",
+        "明快"
+      ],
+      "purposes": [
+        "分享",
+        "发布"
+      ],
+      "intensity": 3,
+      "bg_tone": "light",
+      "bg_luminance": 0.8891,
+      "roles": {
+        "background": "#F5F2EB",
+        "title": "#343635",
+        "body": "#343635",
+        "accent": "#D7391E",
+        "title_contrast": 10.88,
+        "large_only": false
+      },
+      "usage": "底色用奶油白，标题用碳灰，番茄红作少量点缀。"
+    },
+    {
+      "id": 29,
+      "number": "029",
+      "name": "青绿桃雾",
+      "category": "二、经典高级感三色组合（25组）",
+      "colors": [
+        {
+          "name": "马尔斯绿",
+          "hex": "#008C8D"
+        },
+        {
+          "name": "深空黑",
+          "hex": "#1C1B21"
+        },
+        {
+          "name": "淡桃色",
+          "hex": "#EFCBBE"
+        }
+      ],
+      "topics": [
+        "设计",
+        "生活",
+        "情绪"
+      ],
+      "moods": [
+        "克制",
+        "柔和"
+      ],
+      "purposes": [
+        "作品展示",
+        "叙事"
+      ],
+      "intensity": 2,
+      "bg_tone": "dark",
+      "bg_luminance": 0.0114,
+      "roles": {
+        "background": "#1C1B21",
+        "title": "#EFCBBE",
+        "body": "#EFCBBE",
+        "accent": "#008C8D",
+        "title_contrast": 11.36,
+        "large_only": false
+      },
+      "usage": "底色用深空黑，标题用淡桃色，马尔斯绿作少量点缀。"
+    },
+    {
+      "id": 30,
+      "number": "030",
+      "name": "落日与海",
+      "category": "二、经典高级感三色组合（25组）",
+      "colors": [
+        {
+          "name": "落日橙",
+          "hex": "#FD742C"
+        },
+        {
+          "name": "米色",
+          "hex": "#F6E4C8"
+        },
+        {
+          "name": "钴蓝",
+          "hex": "#1B4B9D"
+        }
+      ],
+      "topics": [
+        "旅行",
+        "生活",
+        "创意"
+      ],
+      "moods": [
+        "温暖",
+        "明快"
+      ],
+      "purposes": [
+        "分享",
+        "叙事"
+      ],
+      "intensity": 3,
+      "bg_tone": "light",
+      "bg_luminance": 0.7925,
+      "roles": {
+        "background": "#F6E4C8",
+        "title": "#1B4B9D",
+        "body": "#1B4B9D",
+        "accent": "#FD742C",
+        "title_contrast": 6.63,
+        "large_only": false
+      },
+      "usage": "底色用米色，标题用钴蓝，落日橙作少量点缀。"
+    },
+    {
+      "id": 31,
+      "number": "031",
+      "name": "云杉纸页",
+      "category": "二、经典高级感三色组合（25组）",
+      "colors": [
+        {
+          "name": "云杉绿",
+          "hex": "#132C1F"
+        },
+        {
+          "name": "纸本白",
+          "hex": "#EEE9D6"
+        },
+        {
+          "name": "鹿角金",
+          "hex": "#E3BD8D"
+        }
+      ],
+      "topics": [
+        "阅读",
+        "自然",
+        "文化"
+      ],
+      "moods": [
+        "安静",
+        "温暖"
+      ],
+      "purposes": [
+        "叙事",
+        "分享"
+      ],
+      "intensity": 1,
+      "bg_tone": "light",
+      "bg_luminance": 0.8131,
+      "roles": {
+        "background": "#EEE9D6",
+        "title": "#132C1F",
+        "body": "#132C1F",
+        "accent": "#E3BD8D",
+        "title_contrast": 12.26,
+        "large_only": false
+      },
+      "usage": "底色用纸本白，标题用云杉绿，鹿角金作少量点缀。"
+    },
+    {
+      "id": 32,
+      "number": "032",
+      "name": "蓝调晴天",
+      "category": "二、经典高级感三色组合（25组）",
+      "colors": [
+        {
+          "name": "矢车菊蓝",
+          "hex": "#6496EB"
+        },
+        {
+          "name": "拿坡里黄",
+          "hex": "#FDD95F"
+        },
+        {
+          "name": "荷花白",
+          "hex": "#FEEEF1"
+        }
+      ],
+      "topics": [
+        "教育",
+        "生活",
+        "亲子"
+      ],
+      "moods": [
+        "明快",
+        "柔和"
+      ],
+      "purposes": [
+        "教程",
+        "分享"
+      ],
+      "intensity": 3,
+      "bg_tone": "light",
+      "bg_luminance": 0.8857,
+      "roles": {
+        "background": "#FEEEF1",
+        "title": "#000000",
+        "body": "#000000",
+        "accent": "#6496EB",
+        "title_contrast": 18.71,
+        "large_only": false
+      },
+      "usage": "底色用荷花白，标题用辅助字色，矢车菊蓝作少量点缀。标题字色是为读字补的中性色，不计入原配色。"
+    },
+    {
+      "id": 33,
+      "number": "033",
+      "name": "蜜桃柔光",
+      "category": "二、经典高级感三色组合（25组）",
+      "colors": [
+        {
+          "name": "桃粉",
+          "hex": "#FF606C"
+        },
+        {
+          "name": "白粉",
+          "hex": "#FFF2DF"
+        },
+        {
+          "name": "樱花",
+          "hex": "#F8B6A8"
+        }
+      ],
+      "topics": [
+        "情绪",
+        "生活",
+        "消费"
+      ],
+      "moods": [
+        "柔和",
+        "浪漫"
+      ],
+      "purposes": [
+        "叙事",
+        "分享"
+      ],
+      "intensity": 2,
+      "bg_tone": "light",
+      "bg_luminance": 0.9009,
+      "roles": {
+        "background": "#FFF2DF",
+        "title": "#000000",
+        "body": "#000000",
+        "accent": "#FF606C",
+        "title_contrast": 19.02,
+        "large_only": false
+      },
+      "usage": "底色用白粉，标题用辅助字色，桃粉作少量点缀。标题字色是为读字补的中性色，不计入原配色。"
+    },
+    {
+      "id": 34,
+      "number": "034",
+      "name": "红蓝序曲",
+      "category": "二、经典高级感三色组合（25组）",
+      "colors": [
+        {
+          "name": "火红",
+          "hex": "#FF2D51"
+        },
+        {
+          "name": "米汤骄",
+          "hex": "#FCF5E2"
+        },
+        {
+          "name": "克莱因蓝",
+          "hex": "#0B3289"
+        }
+      ],
+      "topics": [
+        "设计",
+        "音乐",
+        "活动"
+      ],
+      "moods": [
+        "大胆",
+        "有力"
+      ],
+      "purposes": [
+        "作品展示",
+        "发布"
+      ],
+      "intensity": 5,
+      "bg_tone": "light",
+      "bg_luminance": 0.9149,
+      "roles": {
+        "background": "#FCF5E2",
+        "title": "#0B3289",
+        "body": "#0B3289",
+        "accent": "#FF2D51",
+        "title_contrast": 10.53,
+        "large_only": false
+      },
+      "usage": "底色用米汤骄，标题用克莱因蓝，火红作少量点缀。"
+    },
+    {
+      "id": 35,
+      "number": "035",
+      "name": "蓝白绯红",
+      "category": "二、经典高级感三色组合（25组）",
+      "colors": [
+        {
+          "name": "普鲁士蓝",
+          "hex": "#013E75"
+        },
+        {
+          "name": "卡地亚红",
+          "hex": "#A42423"
+        },
+        {
+          "name": "象牙白",
+          "hex": "#FFFBF0"
+        }
+      ],
+      "topics": [
+        "文化",
+        "商业",
+        "旅行"
+      ],
+      "moods": [
+        "沉稳",
+        "克制"
+      ],
+      "purposes": [
+        "解释",
+        "叙事"
+      ],
+      "intensity": 3,
+      "bg_tone": "light",
+      "bg_luminance": 0.9655,
+      "roles": {
+        "background": "#FFFBF0",
+        "title": "#013E75",
+        "body": "#013E75",
+        "accent": "#A42423",
+        "title_contrast": 10.43,
+        "large_only": false
+      },
+      "usage": "底色用象牙白，标题用普鲁士蓝，卡地亚红作少量点缀。"
+    },
+    {
+      "id": 36,
+      "number": "036",
+      "name": "粉蓝跳拍",
+      "category": "二、经典高级感三色组合（25组）",
+      "colors": [
+        {
+          "name": "夏帕瑞丽粉",
+          "hex": "#FE6CB7"
+        },
+        {
+          "name": "象牙粉",
+          "hex": "#FFD9D1"
+        },
+        {
+          "name": "宝蓝",
+          "hex": "#00489D"
+        }
+      ],
+      "topics": [
+        "消费",
+        "设计",
+        "创意"
+      ],
+      "moods": [
+        "年轻",
+        "活泼"
+      ],
+      "purposes": [
+        "发布",
+        "作品展示"
+      ],
+      "intensity": 4,
+      "bg_tone": "light",
+      "bg_luminance": 0.7549,
+      "roles": {
+        "background": "#FFD9D1",
+        "title": "#00489D",
+        "body": "#00489D",
+        "accent": "#FE6CB7",
+        "title_contrast": 6.67,
+        "large_only": false
+      },
+      "usage": "底色用象牙粉，标题用宝蓝，夏帕瑞丽粉作少量点缀。"
+    },
+    {
+      "id": 37,
+      "number": "037",
+      "name": "奶霜绿意",
+      "category": "二、经典高级感三色组合（25组）",
+      "colors": [
+        {
+          "name": "奶霜白",
+          "hex": "#F2E3C6"
+        },
+        {
+          "name": "保罗绿",
+          "hex": "#1B5523"
+        },
+        {
+          "name": "深灰色",
+          "hex": "#363636"
+        }
+      ],
+      "topics": [
+        "自然",
+        "生活",
+        "饮食"
+      ],
+      "moods": [
+        "自然",
+        "温暖"
+      ],
+      "purposes": [
+        "分享",
+        "教程"
+      ],
+      "intensity": 2,
+      "bg_tone": "light",
+      "bg_luminance": 0.7789,
+      "roles": {
+        "background": "#F2E3C6",
+        "title": "#363636",
+        "body": "#363636",
+        "accent": "#1B5523",
+        "title_contrast": 9.54,
+        "large_only": false
+      },
+      "usage": "底色用奶霜白，标题用深灰色，保罗绿作少量点缀。"
+    },
+    {
+      "id": 38,
+      "number": "038",
+      "name": "酒香麦芽",
+      "category": "二、经典高级感三色组合（25组）",
+      "colors": [
+        {
+          "name": "勃艮第红",
+          "hex": "#81021F"
+        },
+        {
+          "name": "煤黑",
+          "hex": "#312520"
+        },
+        {
+          "name": "麦芽糖黄",
+          "hex": "#F1CA7C"
+        }
+      ],
+      "topics": [
+        "阅读",
+        "饮食",
+        "文化"
+      ],
+      "moods": [
+        "怀旧",
+        "温暖"
+      ],
+      "purposes": [
+        "叙事",
+        "作品展示"
+      ],
+      "intensity": 2,
+      "bg_tone": "dark",
+      "bg_luminance": 0.0208,
+      "roles": {
+        "background": "#312520",
+        "title": "#F1CA7C",
+        "body": "#F1CA7C",
+        "accent": "#81021F",
+        "title_contrast": 9.52,
+        "large_only": false
+      },
+      "usage": "底色用煤黑，标题用麦芽糖黄，勃艮第红作少量点缀。"
+    },
+    {
+      "id": 39,
+      "number": "039",
+      "name": "橙蓝晴日",
+      "category": "二、经典高级感三色组合（25组）",
+      "colors": [
+        {
+          "name": "爱马仕橙",
+          "hex": "#FF8A00"
+        },
+        {
+          "name": "白粉",
+          "hex": "#FFF2DF"
+        },
+        {
+          "name": "邦迪蓝",
+          "hex": "#0095B6"
+        }
+      ],
+      "topics": [
+        "旅行",
+        "生活",
+        "消费"
+      ],
+      "moods": [
+        "清爽",
+        "明快"
+      ],
+      "purposes": [
+        "分享",
+        "发布"
+      ],
+      "intensity": 4,
+      "bg_tone": "light",
+      "bg_luminance": 0.9009,
+      "roles": {
+        "background": "#FFF2DF",
+        "title": "#0095B6",
+        "body": "#000000",
+        "accent": "#FF8A00",
+        "title_contrast": 3.18,
+        "large_only": true
+      },
+      "usage": "底色用白粉，标题用邦迪蓝，爱马仕橙作少量点缀。标题只适合大字，小字另用正文色。"
+    },
+    {
+      "id": 40,
+      "number": "040",
+      "name": "森林蓝影",
+      "category": "二、经典高级感三色组合（25组）",
+      "colors": [
+        {
+          "name": "古驰绿",
+          "hex": "#1F4433"
+        },
+        {
+          "name": "杜若色",
+          "hex": "#3E62AD"
+        },
+        {
+          "name": "荔枝白",
+          "hex": "#FEFFEF"
+        }
+      ],
+      "topics": [
+        "自然",
+        "文化",
+        "旅行"
+      ],
+      "moods": [
+        "冷静",
+        "沉稳"
+      ],
+      "purposes": [
+        "叙事",
+        "解释"
+      ],
+      "intensity": 2,
+      "bg_tone": "light",
+      "bg_luminance": 0.9882,
+      "roles": {
+        "background": "#FEFFEF",
+        "title": "#1F4433",
+        "body": "#1F4433",
+        "accent": "#3E62AD",
+        "title_contrast": 10.75,
+        "large_only": false
+      },
+      "usage": "底色用荔枝白，标题用古驰绿，杜若色作少量点缀。"
+    },
+    {
+      "id": 41,
+      "number": "041",
+      "name": "草木微灰",
+      "category": "二、经典高级感三色组合（25组）",
+      "colors": [
+        {
+          "name": "牛油果绿",
+          "hex": "#7FA921"
+        },
+        {
+          "name": "百草露",
+          "hex": "#423F3D"
+        },
+        {
+          "name": "芡食白",
+          "hex": "#E2E1E6"
+        }
+      ],
+      "topics": [
+        "自然",
+        "教育",
+        "生活"
+      ],
+      "moods": [
+        "自然",
+        "轻松"
+      ],
+      "purposes": [
+        "教程",
+        "分享"
+      ],
+      "intensity": 2,
+      "bg_tone": "light",
+      "bg_luminance": 0.7573,
+      "roles": {
+        "background": "#E2E1E6",
+        "title": "#423F3D",
+        "body": "#423F3D",
+        "accent": "#7FA921",
+        "title_contrast": 8.03,
+        "large_only": false
+      },
+      "usage": "底色用芡食白，标题用百草露，牛油果绿作少量点缀。"
+    },
+    {
+      "id": 42,
+      "number": "042",
+      "name": "青瓷陶土",
+      "category": "二、经典高级感三色组合（25组）",
+      "colors": [
+        {
+          "name": "提香红",
+          "hex": "#B05B24"
+        },
+        {
+          "name": "古驰绿",
+          "hex": "#1F4433"
+        },
+        {
+          "name": "鸭卵青",
+          "hex": "#E4EEE6"
+        }
+      ],
+      "topics": [
+        "手作",
+        "文化",
+        "自然"
+      ],
+      "moods": [
+        "自然",
+        "怀旧"
+      ],
+      "purposes": [
+        "分享",
+        "作品展示"
+      ],
+      "intensity": 2,
+      "bg_tone": "light",
+      "bg_luminance": 0.8336,
+      "roles": {
+        "background": "#E4EEE6",
+        "title": "#1F4433",
+        "body": "#1F4433",
+        "accent": "#B05B24",
+        "title_contrast": 9.15,
+        "large_only": false
+      },
+      "usage": "底色用鸭卵青，标题用古驰绿，提香红作少量点缀。"
+    },
+    {
+      "id": 43,
+      "number": "043",
+      "name": "金棕书页",
+      "category": "二、经典高级感三色组合（25组）",
+      "colors": [
+        {
+          "name": "迪奥金",
+          "hex": "#A99563"
+        },
+        {
+          "name": "LV棕",
+          "hex": "#592F23"
+        },
+        {
+          "name": "米汤骄",
+          "hex": "#FCF5E2"
+        }
+      ],
+      "topics": [
+        "文化",
+        "阅读",
+        "消费"
+      ],
+      "moods": [
+        "温暖",
+        "克制"
+      ],
+      "purposes": [
+        "叙事",
+        "作品展示"
+      ],
+      "intensity": 2,
+      "bg_tone": "light",
+      "bg_luminance": 0.9149,
+      "roles": {
+        "background": "#FCF5E2",
+        "title": "#592F23",
+        "body": "#592F23",
+        "accent": "#A99563",
+        "title_contrast": 10.4,
+        "large_only": false
+      },
+      "usage": "底色用米汤骄，标题用LV棕，迪奥金作少量点缀。"
+    },
+    {
+      "id": 44,
+      "number": "044",
+      "name": "橙光炭影",
+      "category": "二、经典高级感三色组合（25组）",
+      "colors": [
+        {
+          "name": "爱马仕橙",
+          "hex": "#FF8A00"
+        },
+        {
+          "name": "魔力黑",
+          "hex": "#373A3E"
+        },
+        {
+          "name": "白粉",
+          "hex": "#FFF2DF"
+        }
+      ],
+      "topics": [
+        "商业",
+        "创业",
+        "效率"
+      ],
+      "moods": [
+        "有力",
+        "沉稳"
+      ],
+      "purposes": [
+        "解释",
+        "发布"
+      ],
+      "intensity": 4,
+      "bg_tone": "light",
+      "bg_luminance": 0.9009,
+      "roles": {
+        "background": "#FFF2DF",
+        "title": "#373A3E",
+        "body": "#373A3E",
+        "accent": "#FF8A00",
+        "title_contrast": 10.35,
+        "large_only": false
+      },
+      "usage": "底色用白粉，标题用魔力黑，爱马仕橙作少量点缀。"
+    },
+    {
+      "id": 45,
+      "number": "045",
+      "name": "酒红奶白",
+      "category": "二、经典高级感三色组合（25组）",
+      "colors": [
+        {
+          "name": "波尔多红",
+          "hex": "#4A010A"
+        },
+        {
+          "name": "鱼肚白",
+          "hex": "#FCEFE8"
+        }
+      ],
+      "topics": [
+        "情绪",
+        "文化",
+        "生活"
+      ],
+      "moods": [
+        "柔和",
+        "怀旧"
+      ],
+      "purposes": [
+        "叙事",
+        "纪念"
+      ],
+      "intensity": 1,
+      "bg_tone": "light",
+      "bg_luminance": 0.8825,
+      "roles": {
+        "background": "#FCEFE8",
+        "title": "#4A010A",
+        "body": "#4A010A",
+        "accent": "#4A010A",
+        "title_contrast": 14.35,
+        "large_only": false
+      },
+      "usage": "底色用鱼肚白，标题用波尔多红，波尔多红作少量点缀。"
+    },
+    {
+      "id": 46,
+      "number": "046",
+      "name": "晴日三重",
+      "category": "三、黄金比例三色搭配 6:3:1（15组）",
+      "colors": [
+        {
+          "name": "晴空蓝",
+          "hex": "#3498DB"
+        },
+        {
+          "name": "阳光黄",
+          "hex": "#FEC107"
+        },
+        {
+          "name": "活力橙",
+          "hex": "#E64A19"
+        }
+      ],
+      "topics": [
+        "教育",
+        "旅行",
+        "活动"
+      ],
+      "moods": [
+        "明快",
+        "有力"
+      ],
+      "purposes": [
+        "教程",
+        "发布"
+      ],
+      "intensity": 4,
+      "bg_tone": "dark",
+      "bg_luminance": 0.283,
+      "roles": {
+        "background": "#3498DB",
+        "title": "#000000",
+        "body": "#000000",
+        "accent": "#FEC107",
+        "title_contrast": 6.66,
+        "large_only": false
+      },
+      "usage": "底色用晴空蓝，标题用辅助字色，阳光黄作少量点缀。标题字色是为读字补的中性色，不计入原配色。"
+    },
+    {
+      "id": 47,
+      "number": "047",
+      "name": "森林秋色",
+      "category": "三、黄金比例三色搭配 6:3:1（15组）",
+      "colors": [
+        {
+          "name": "森林绿",
+          "hex": "#2E7D32"
+        },
+        {
+          "name": "大地棕",
+          "hex": "#8D6E63"
+        },
+        {
+          "name": "秋叶黄",
+          "hex": "#FFB300"
+        }
+      ],
+      "topics": [
+        "自然",
+        "旅行",
+        "饮食"
+      ],
+      "moods": [
+        "自然",
+        "温暖"
+      ],
+      "purposes": [
+        "分享",
+        "叙事"
+      ],
+      "intensity": 3,
+      "bg_tone": "dark",
+      "bg_luminance": 0.1548,
+      "roles": {
+        "background": "#2E7D32",
+        "title": "#FFFFFF",
+        "body": "#FFFFFF",
+        "accent": "#FFB300",
+        "title_contrast": 5.13,
+        "large_only": false
+      },
+      "usage": "底色用森林绿，标题用辅助字色，秋叶黄作少量点缀。标题字色是为读字补的中性色，不计入原配色。"
+    },
+    {
+      "id": 48,
+      "number": "048",
+      "name": "海蓝粉雾",
+      "category": "三、黄金比例三色搭配 6:3:1（15组）",
+      "colors": [
+        {
+          "name": "深海蓝",
+          "hex": "#0D47A1"
+        },
+        {
+          "name": "珊瑚粉",
+          "hex": "#F06292"
+        },
+        {
+          "name": "珍珠白",
+          "hex": "#F5F5F5"
+        }
+      ],
+      "topics": [
+        "生活",
+        "情绪",
+        "消费"
+      ],
+      "moods": [
+        "浪漫",
+        "清爽"
+      ],
+      "purposes": [
+        "分享",
+        "叙事"
+      ],
+      "intensity": 3,
+      "bg_tone": "dark",
+      "bg_luminance": 0.0717,
+      "roles": {
+        "background": "#0D47A1",
+        "title": "#F5F5F5",
+        "body": "#F5F5F5",
+        "accent": "#F06292",
+        "title_contrast": 7.91,
+        "large_only": false
+      },
+      "usage": "底色用深海蓝，标题用珍珠白，珊瑚粉作少量点缀。"
+    },
+    {
+      "id": 49,
+      "number": "049",
+      "name": "午夜霓虹",
+      "category": "三、黄金比例三色搭配 6:3:1（15组）",
+      "colors": [
+        {
+          "name": "午夜黑",
+          "hex": "#212121"
+        },
+        {
+          "name": "电光紫",
+          "hex": "#9C27B0"
+        },
+        {
+          "name": "霓虹粉",
+          "hex": "#FF4081"
+        }
+      ],
+      "topics": [
+        "科技",
+        "音乐",
+        "活动"
+      ],
+      "moods": [
+        "神秘",
+        "兴奋"
+      ],
+      "purposes": [
+        "发布",
+        "作品展示"
+      ],
+      "intensity": 5,
+      "bg_tone": "dark",
+      "bg_luminance": 0.0152,
+      "roles": {
+        "background": "#212121",
+        "title": "#FF4081",
+        "body": "#FF4081",
+        "accent": "#9C27B0",
+        "title_contrast": 4.83,
+        "large_only": false
+      },
+      "usage": "底色用午夜黑，标题用霓虹粉，电光紫作少量点缀。"
+    },
+    {
+      "id": 50,
+      "number": "050",
+      "name": "摩卡焦糖",
+      "category": "三、黄金比例三色搭配 6:3:1（15组）",
+      "colors": [
+        {
+          "name": "摩卡棕",
+          "hex": "#6D4C41"
+        },
+        {
+          "name": "奶油白",
+          "hex": "#EFEBE9"
+        },
+        {
+          "name": "焦糖橙",
+          "hex": "#FF8A65"
+        }
+      ],
+      "topics": [
+        "饮食",
+        "生活",
+        "阅读"
+      ],
+      "moods": [
+        "温暖",
+        "放松"
+      ],
+      "purposes": [
+        "分享",
+        "叙事"
+      ],
+      "intensity": 2,
+      "bg_tone": "dark",
+      "bg_luminance": 0.088,
+      "roles": {
+        "background": "#6D4C41",
+        "title": "#EFEBE9",
+        "body": "#EFEBE9",
+        "accent": "#FF8A65",
+        "title_contrast": 6.42,
+        "large_only": false
+      },
+      "usage": "底色用摩卡棕，标题用奶油白，焦糖橙作少量点缀。"
+    },
+    {
+      "id": 51,
+      "number": "051",
+      "name": "三原节拍",
+      "category": "三、黄金比例三色搭配 6:3:1（15组）",
+      "colors": [
+        {
+          "name": "正红",
+          "hex": "#E53935"
+        },
+        {
+          "name": "明黄",
+          "hex": "#FFD740"
+        },
+        {
+          "name": "钴蓝",
+          "hex": "#1E88E5"
+        }
+      ],
+      "topics": [
+        "教育",
+        "设计",
+        "活动"
+      ],
+      "moods": [
+        "活泼",
+        "有力"
+      ],
+      "purposes": [
+        "教程",
+        "作品展示"
+      ],
+      "intensity": 5,
+      "bg_tone": "dark",
+      "bg_luminance": 0.1984,
+      "roles": {
+        "background": "#E53935",
+        "title": "#FFD740",
+        "body": "#000000",
+        "accent": "#1E88E5",
+        "title_contrast": 3.03,
+        "large_only": true
+      },
+      "usage": "底色用正红，标题用明黄，钴蓝作少量点缀。标题只适合大字，小字另用正文色。"
+    },
+    {
+      "id": 52,
+      "number": "052",
+      "name": "水泥陶土",
+      "category": "三、黄金比例三色搭配 6:3:1（15组）",
+      "colors": [
+        {
+          "name": "水泥灰",
+          "hex": "#78909C"
+        },
+        {
+          "name": "陶土橙",
+          "hex": "#E97451"
+        },
+        {
+          "name": "钢蓝",
+          "hex": "#2C3E50"
+        }
+      ],
+      "topics": [
+        "建筑",
+        "设计",
+        "商业"
+      ],
+      "moods": [
+        "克制",
+        "沉稳"
+      ],
+      "purposes": [
+        "解释",
+        "作品展示"
+      ],
+      "intensity": 2,
+      "bg_tone": "dark",
+      "bg_luminance": 0.2634,
+      "roles": {
+        "background": "#78909C",
+        "title": "#2C3E50",
+        "body": "#000000",
+        "accent": "#E97451",
+        "title_contrast": 3.28,
+        "large_only": true
+      },
+      "usage": "底色用水泥灰，标题用钢蓝，陶土橙作少量点缀。标题只适合大字，小字另用正文色。"
+    },
+    {
+      "id": 53,
+      "number": "053",
+      "name": "杏白红蓝",
+      "category": "三、黄金比例三色搭配 6:3:1（15组）",
+      "colors": [
+        {
+          "name": "米杏白",
+          "hex": "#FDF0D5"
+        },
+        {
+          "name": "深海藏青",
+          "hex": "#003049"
+        },
+        {
+          "name": "辣椒红",
+          "hex": "#D62828"
+        }
+      ],
+      "topics": [
+        "文化",
+        "商业",
+        "旅行"
+      ],
+      "moods": [
+        "沉稳",
+        "明快"
+      ],
+      "purposes": [
+        "解释",
+        "叙事"
+      ],
+      "intensity": 3,
+      "bg_tone": "light",
+      "bg_luminance": 0.8801,
+      "roles": {
+        "background": "#FDF0D5",
+        "title": "#003049",
+        "body": "#003049",
+        "accent": "#D62828",
+        "title_contrast": 12.25,
+        "large_only": false
+      },
+      "usage": "底色用米杏白，标题用深海藏青，辣椒红作少量点缀。"
+    },
+    {
+      "id": 54,
+      "number": "054",
+      "name": "青柠果香",
+      "category": "三、黄金比例三色搭配 6:3:1（15组）",
+      "colors": [
+        {
+          "name": "椰云白",
+          "hex": "#FCF8F3"
+        },
+        {
+          "name": "青柠绿",
+          "hex": "#52B788"
+        },
+        {
+          "name": "芒果橙",
+          "hex": "#FF9F1C"
+        }
+      ],
+      "topics": [
+        "生活",
+        "饮食",
+        "自然"
+      ],
+      "moods": [
+        "清爽",
+        "轻松"
+      ],
+      "purposes": [
+        "分享",
+        "教程"
+      ],
+      "intensity": 2,
+      "bg_tone": "light",
+      "bg_luminance": 0.943,
+      "roles": {
+        "background": "#FCF8F3",
+        "title": "#000000",
+        "body": "#000000",
+        "accent": "#FF9F1C",
+        "title_contrast": 19.86,
+        "large_only": false
+      },
+      "usage": "底色用椰云白，标题用辅助字色，芒果橙作少量点缀。标题字色是为读字补的中性色，不计入原配色。"
+    },
+    {
+      "id": 55,
+      "number": "055",
+      "name": "奶咖雾色",
+      "category": "三、黄金比例三色搭配 6:3:1（15组）",
+      "colors": [
+        {
+          "name": "雾灰白",
+          "hex": "#F0F4F8"
+        },
+        {
+          "name": "奶咖棕",
+          "hex": "#C9ADA7"
+        },
+        {
+          "name": "墨青灰",
+          "hex": "#4A4E69"
+        }
+      ],
+      "topics": [
+        "生活",
+        "情绪",
+        "阅读"
+      ],
+      "moods": [
+        "安静",
+        "柔和"
+      ],
+      "purposes": [
+        "叙事",
+        "分享"
+      ],
+      "intensity": 1,
+      "bg_tone": "light",
+      "bg_luminance": 0.9,
+      "roles": {
+        "background": "#F0F4F8",
+        "title": "#4A4E69",
+        "body": "#4A4E69",
+        "accent": "#C9ADA7",
+        "title_contrast": 7.35,
+        "large_only": false
+      },
+      "usage": "底色用雾灰白，标题用墨青灰，奶咖棕作少量点缀。"
+    },
+    {
+      "id": 56,
+      "number": "056",
+      "name": "浆果草地",
+      "category": "三、黄金比例三色搭配 6:3:1（15组）",
+      "colors": [
+        {
+          "name": "浆果红",
+          "hex": "#D72657"
+        },
+        {
+          "name": "浅草绿",
+          "hex": "#92B890"
+        },
+        {
+          "name": "炭灰",
+          "hex": "#2C2C2C"
+        }
+      ],
+      "topics": [
+        "生活",
+        "自然",
+        "消费"
+      ],
+      "moods": [
+        "温暖",
+        "活泼"
+      ],
+      "purposes": [
+        "分享",
+        "发布"
+      ],
+      "intensity": 3,
+      "bg_tone": "dark",
+      "bg_luminance": 0.1652,
+      "roles": {
+        "background": "#D72657",
+        "title": "#FFFFFF",
+        "body": "#FFFFFF",
+        "accent": "#92B890",
+        "title_contrast": 4.88,
+        "large_only": false
+      },
+      "usage": "底色用浆果红，标题用辅助字色，浅草绿作少量点缀。标题字色是为读字补的中性色，不计入原配色。"
+    },
+    {
+      "id": 57,
+      "number": "057",
+      "name": "蓝紫轻雾",
+      "category": "三、黄金比例三色搭配 6:3:1（15组）",
+      "colors": [
+        {
+          "name": "灰雾蓝",
+          "hex": "#7498B6"
+        },
+        {
+          "name": "风铃紫",
+          "hex": "#B8A9D9"
+        },
+        {
+          "name": "米霜白",
+          "hex": "#F7F3EC"
+        }
+      ],
+      "topics": [
+        "情绪",
+        "旅行",
+        "生活"
+      ],
+      "moods": [
+        "安静",
+        "柔和"
+      ],
+      "purposes": [
+        "叙事",
+        "纪念"
+      ],
+      "intensity": 1,
+      "bg_tone": "dark",
+      "bg_luminance": 0.2955,
+      "roles": {
+        "background": "#7498B6",
+        "title": "#000000",
+        "body": "#000000",
+        "accent": "#B8A9D9",
+        "title_contrast": 6.91,
+        "large_only": false
+      },
+      "usage": "底色用灰雾蓝，标题用辅助字色，风铃紫作少量点缀。标题字色是为读字补的中性色，不计入原配色。"
+    },
+    {
+      "id": 58,
+      "number": "058",
+      "name": "暗榄琥珀",
+      "category": "三、黄金比例三色搭配 6:3:1（15组）",
+      "colors": [
+        {
+          "name": "暗榄绿",
+          "hex": "#5C633B"
+        },
+        {
+          "name": "琥珀橘",
+          "hex": "#D18847"
+        },
+        {
+          "name": "炭茶黑",
+          "hex": "#28241E"
+        }
+      ],
+      "topics": [
+        "自然",
+        "饮食",
+        "手作"
+      ],
+      "moods": [
+        "沉稳",
+        "温暖"
+      ],
+      "purposes": [
+        "分享",
+        "叙事"
+      ],
+      "intensity": 2,
+      "bg_tone": "dark",
+      "bg_luminance": 0.1151,
+      "roles": {
+        "background": "#5C633B",
+        "title": "#FFFFFF",
+        "body": "#FFFFFF",
+        "accent": "#D18847",
+        "title_contrast": 6.36,
+        "large_only": false
+      },
+      "usage": "底色用暗榄绿，标题用辅助字色，琥珀橘作少量点缀。标题字色是为读字补的中性色，不计入原配色。"
+    },
+    {
+      "id": 59,
+      "number": "059",
+      "name": "青蓝苏打",
+      "category": "三、黄金比例三色搭配 6:3:1（15组）",
+      "colors": [
+        {
+          "name": "矢车青蓝",
+          "hex": "#2978B5"
+        },
+        {
+          "name": "苏打奶绿",
+          "hex": "#B4E4D6"
+        },
+        {
+          "name": "沙砾灰",
+          "hex": "#9A948C"
+        }
+      ],
+      "topics": [
+        "旅行",
+        "自然",
+        "生活"
+      ],
+      "moods": [
+        "清爽",
+        "安静"
+      ],
+      "purposes": [
+        "分享",
+        "叙事"
+      ],
+      "intensity": 2,
+      "bg_tone": "dark",
+      "bg_luminance": 0.1724,
+      "roles": {
+        "background": "#2978B5",
+        "title": "#B4E4D6",
+        "body": "#FFFFFF",
+        "accent": "#9A948C",
+        "title_contrast": 3.37,
+        "large_only": true
+      },
+      "usage": "底色用矢车青蓝，标题用苏打奶绿，沙砾灰作少量点缀。标题只适合大字，小字另用正文色。"
+    },
+    {
+      "id": 60,
+      "number": "060",
+      "name": "枣红奶咖",
+      "category": "三、黄金比例三色搭配 6:3:1（15组）",
+      "colors": [
+        {
+          "name": "深枣红",
+          "hex": "#7F2D2F"
+        },
+        {
+          "name": "奶咖",
+          "hex": "#D4B9A3"
+        },
+        {
+          "name": "古银灰",
+          "hex": "#888A8C"
+        }
+      ],
+      "topics": [
+        "文化",
+        "阅读",
+        "情绪"
+      ],
+      "moods": [
+        "怀旧",
+        "沉稳"
+      ],
+      "purposes": [
+        "叙事",
+        "纪念"
+      ],
+      "intensity": 1,
+      "bg_tone": "dark",
+      "bg_luminance": 0.0659,
+      "roles": {
+        "background": "#7F2D2F",
+        "title": "#D4B9A3",
+        "body": "#D4B9A3",
+        "accent": "#888A8C",
+        "title_contrast": 4.86,
+        "large_only": false
+      },
+      "usage": "底色用深枣红，标题用奶咖，古银灰作少量点缀。"
+    },
+    {
+      "id": 61,
+      "number": "061",
+      "name": "经典商务",
+      "category": "四、品牌风格四色系统（10组）",
+      "colors": [
+        {
+          "name": "纯白",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "炭黑",
+          "hex": "#2C2C2C"
+        },
+        {
+          "name": "商务蓝",
+          "hex": "#0056B3"
+        },
+        {
+          "name": "浅灰",
+          "hex": "#E6E6E6"
+        }
+      ],
+      "topics": [
+        "商业",
+        "财经",
+        "资讯"
+      ],
+      "moods": [
+        "冷静",
+        "沉稳"
+      ],
+      "purposes": [
+        "解释",
+        "教程"
+      ],
+      "intensity": 1,
+      "bg_tone": "light",
+      "bg_luminance": 1.0,
+      "roles": {
+        "background": "#FFFFFF",
+        "title": "#2C2C2C",
+        "body": "#2C2C2C",
+        "accent": "#0056B3",
+        "title_contrast": 13.96,
+        "large_only": false
+      },
+      "usage": "底色用纯白，标题用炭黑，商务蓝作少量点缀。"
+    },
+    {
+      "id": 62,
+      "number": "062",
+      "name": "雅致书香",
+      "category": "四、品牌风格四色系统（10组）",
+      "colors": [
+        {
+          "name": "纸白",
+          "hex": "#F9F7F1"
+        },
+        {
+          "name": "墨黑",
+          "hex": "#2B2B2B"
+        },
+        {
+          "name": "木棕",
+          "hex": "#A67C52"
+        },
+        {
+          "name": "灰米",
+          "hex": "#E8E4D9"
+        }
+      ],
+      "topics": [
+        "阅读",
+        "教育",
+        "文化"
+      ],
+      "moods": [
+        "安静",
+        "温暖"
+      ],
+      "purposes": [
+        "叙事",
+        "教程"
+      ],
+      "intensity": 1,
+      "bg_tone": "light",
+      "bg_luminance": 0.9301,
+      "roles": {
+        "background": "#F9F7F1",
+        "title": "#2B2B2B",
+        "body": "#2B2B2B",
+        "accent": "#A67C52",
+        "title_contrast": 13.21,
+        "large_only": false
+      },
+      "usage": "底色用纸白，标题用墨黑，木棕作少量点缀。"
+    },
+    {
+      "id": 63,
+      "number": "063",
+      "name": "自然森系",
+      "category": "四、品牌风格四色系统（10组）",
+      "colors": [
+        {
+          "name": "雾白",
+          "hex": "#F7F9F7"
+        },
+        {
+          "name": "深林绿",
+          "hex": "#2D4F3C"
+        },
+        {
+          "name": "鼠尾草绿",
+          "hex": "#6B9080"
+        },
+        {
+          "name": "浅灰绿",
+          "hex": "#D8E2DC"
+        }
+      ],
+      "topics": [
+        "自然",
+        "生活",
+        "健康"
+      ],
+      "moods": [
+        "自然",
+        "安静"
+      ],
+      "purposes": [
+        "分享",
+        "解释"
+      ],
+      "intensity": 1,
+      "bg_tone": "light",
+      "bg_luminance": 0.9424,
+      "roles": {
+        "background": "#F7F9F7",
+        "title": "#2D4F3C",
+        "body": "#2D4F3C",
+        "accent": "#6B9080",
+        "title_contrast": 8.64,
+        "large_only": false
+      },
+      "usage": "底色用雾白，标题用深林绿，鼠尾草绿作少量点缀。"
+    },
+    {
+      "id": 64,
+      "number": "064",
+      "name": "静谧裸粉",
+      "category": "四、品牌风格四色系统（10组）",
+      "colors": [
+        {
+          "name": "暖白",
+          "hex": "#FDFBF9"
+        },
+        {
+          "name": "深咖棕",
+          "hex": "#4A3B38"
+        },
+        {
+          "name": "豆沙粉",
+          "hex": "#C28B82"
+        },
+        {
+          "name": "浅灰粉",
+          "hex": "#EBE0DE"
+        }
+      ],
+      "topics": [
+        "情绪",
+        "生活",
+        "消费"
+      ],
+      "moods": [
+        "柔和",
+        "温暖"
+      ],
+      "purposes": [
+        "叙事",
+        "分享"
+      ],
+      "intensity": 1,
+      "bg_tone": "light",
+      "bg_luminance": 0.9672,
+      "roles": {
+        "background": "#FDFBF9",
+        "title": "#4A3B38",
+        "body": "#4A3B38",
+        "accent": "#C28B82",
+        "title_contrast": 10.31,
+        "large_only": false
+      },
+      "usage": "底色用暖白，标题用深咖棕，豆沙粉作少量点缀。"
+    },
+    {
+      "id": 65,
+      "number": "065",
+      "name": "冷静科技",
+      "category": "四、品牌风格四色系统（10组）",
+      "colors": [
+        {
+          "name": "雾灰白",
+          "hex": "#F0F4F8"
+        },
+        {
+          "name": "深海藏青",
+          "hex": "#102A43"
+        },
+        {
+          "name": "钢蓝灰",
+          "hex": "#334E68"
+        },
+        {
+          "name": "浅雾蓝",
+          "hex": "#D9E2EC"
+        }
+      ],
+      "topics": [
+        "科技",
+        "财经",
+        "商业"
+      ],
+      "moods": [
+        "冷静",
+        "克制"
+      ],
+      "purposes": [
+        "解释",
+        "教程"
+      ],
+      "intensity": 1,
+      "bg_tone": "light",
+      "bg_luminance": 0.9,
+      "roles": {
+        "background": "#F0F4F8",
+        "title": "#102A43",
+        "body": "#102A43",
+        "accent": "#334E68",
+        "title_contrast": 13.25,
+        "large_only": false
+      },
+      "usage": "底色用雾灰白，标题用深海藏青，钢蓝灰作少量点缀。"
+    },
+    {
+      "id": 66,
+      "number": "066",
+      "name": "摩登都市",
+      "category": "四、品牌风格四色系统（10组）",
+      "colors": [
+        {
+          "name": "纯白",
+          "hex": "#FAFAFA"
+        },
+        {
+          "name": "炭灰",
+          "hex": "#333333"
+        },
+        {
+          "name": "珊瑚红",
+          "hex": "#FF6B6B"
+        },
+        {
+          "name": "浅灰",
+          "hex": "#EAEAEA"
+        }
+      ],
+      "topics": [
+        "商业",
+        "消费",
+        "城市"
+      ],
+      "moods": [
+        "年轻",
+        "明快"
+      ],
+      "purposes": [
+        "发布",
+        "分享"
+      ],
+      "intensity": 3,
+      "bg_tone": "light",
+      "bg_luminance": 0.956,
+      "roles": {
+        "background": "#FAFAFA",
+        "title": "#333333",
+        "body": "#333333",
+        "accent": "#FF6B6B",
+        "title_contrast": 12.11,
+        "large_only": false
+      },
+      "usage": "底色用纯白，标题用炭灰，珊瑚红作少量点缀。"
+    },
+    {
+      "id": 67,
+      "number": "067",
+      "name": "纯粹极简",
+      "category": "四、品牌风格四色系统（10组）",
+      "colors": [
+        {
+          "name": "近白",
+          "hex": "#F8F8F8"
+        },
+        {
+          "name": "墨黑",
+          "hex": "#1A1A1A"
+        },
+        {
+          "name": "中灰",
+          "hex": "#8C8C8C"
+        },
+        {
+          "name": "暖灰",
+          "hex": "#D4CFC9"
+        }
+      ],
+      "topics": [
+        "设计",
+        "资讯",
+        "商业"
+      ],
+      "moods": [
+        "克制",
+        "冷静"
+      ],
+      "purposes": [
+        "解释",
+        "作品展示"
+      ],
+      "intensity": 1,
+      "bg_tone": "light",
+      "bg_luminance": 0.9387,
+      "roles": {
+        "background": "#F8F8F8",
+        "title": "#1A1A1A",
+        "body": "#1A1A1A",
+        "accent": "#8C8C8C",
+        "title_contrast": 16.4,
+        "large_only": false
+      },
+      "usage": "底色用近白，标题用墨黑，中灰作少量点缀。"
+    },
+    {
+      "id": 68,
+      "number": "068",
+      "name": "深邃暗夜",
+      "category": "四、品牌风格四色系统（10组）",
+      "colors": [
+        {
+          "name": "极夜黑",
+          "hex": "#121212"
+        },
+        {
+          "name": "淡紫",
+          "hex": "#BB86FC"
+        },
+        {
+          "name": "浅灰白",
+          "hex": "#E0E0E0"
+        },
+        {
+          "name": "深灰",
+          "hex": "#2C2C2C"
+        }
+      ],
+      "topics": [
+        "科技",
+        "音乐",
+        "设计"
+      ],
+      "moods": [
+        "神秘",
+        "冷静"
+      ],
+      "purposes": [
+        "作品展示",
+        "解释"
+      ],
+      "intensity": 3,
+      "bg_tone": "dark",
+      "bg_luminance": 0.006,
+      "roles": {
+        "background": "#121212",
+        "title": "#E0E0E0",
+        "body": "#E0E0E0",
+        "accent": "#BB86FC",
+        "title_contrast": 14.2,
+        "large_only": false
+      },
+      "usage": "底色用极夜黑，标题用浅灰白，淡紫作少量点缀。"
+    },
+    {
+      "id": 69,
+      "number": "069",
+      "name": "东方朱砂",
+      "category": "四、品牌风格四色系统（10组）",
+      "colors": [
+        {
+          "name": "纸白",
+          "hex": "#FDFCF8"
+        },
+        {
+          "name": "墨黑",
+          "hex": "#2B2B2B"
+        },
+        {
+          "name": "朱砂红",
+          "hex": "#B54935"
+        },
+        {
+          "name": "灰米",
+          "hex": "#E6DCD3"
+        }
+      ],
+      "topics": [
+        "文化",
+        "手作",
+        "阅读"
+      ],
+      "moods": [
+        "沉稳",
+        "温暖"
+      ],
+      "purposes": [
+        "叙事",
+        "作品展示"
+      ],
+      "intensity": 2,
+      "bg_tone": "light",
+      "bg_luminance": 0.9728,
+      "roles": {
+        "background": "#FDFCF8",
+        "title": "#2B2B2B",
+        "body": "#2B2B2B",
+        "accent": "#B54935",
+        "title_contrast": 13.78,
+        "large_only": false
+      },
+      "usage": "底色用纸白，标题用墨黑，朱砂红作少量点缀。"
+    },
+    {
+      "id": 70,
+      "number": "070",
+      "name": "数字先锋",
+      "category": "四、品牌风格四色系统（10组）",
+      "colors": [
+        {
+          "name": "明黄",
+          "hex": "#FFD23F"
+        },
+        {
+          "name": "亮蓝",
+          "hex": "#0057FF"
+        },
+        {
+          "name": "墨黑",
+          "hex": "#151515"
+        },
+        {
+          "name": "纯白",
+          "hex": "#FFFFFF"
+        }
+      ],
+      "topics": [
+        "科技",
+        "创业",
+        "活动"
+      ],
+      "moods": [
+        "大胆",
+        "兴奋"
+      ],
+      "purposes": [
+        "发布",
+        "作品展示"
+      ],
+      "intensity": 5,
+      "bg_tone": "dark",
+      "bg_luminance": 0.0075,
+      "roles": {
+        "background": "#151515",
+        "title": "#FFFFFF",
+        "body": "#FFFFFF",
+        "accent": "#0057FF",
+        "title_contrast": 18.26,
+        "large_only": false
+      },
+      "usage": "底色用墨黑，标题用纯白，亮蓝作少量点缀。"
+    },
+    {
+      "id": 71,
+      "number": "071",
+      "name": "理性鲜明",
+      "category": "五、现代主义三色组合（9组）",
+      "colors": [
+        {
+          "name": "明黄",
+          "hex": "#FFD23F"
+        },
+        {
+          "name": "亮蓝",
+          "hex": "#0057FF"
+        },
+        {
+          "name": "墨黑",
+          "hex": "#151515"
+        }
+      ],
+      "topics": [
+        "设计",
+        "科技",
+        "教育"
+      ],
+      "moods": [
+        "有力",
+        "明快"
+      ],
+      "purposes": [
+        "解释",
+        "教程"
+      ],
+      "intensity": 4,
+      "bg_tone": "dark",
+      "bg_luminance": 0.0075,
+      "roles": {
+        "background": "#151515",
+        "title": "#FFD23F",
+        "body": "#FFD23F",
+        "accent": "#0057FF",
+        "title_contrast": 12.65,
+        "large_only": false
+      },
+      "usage": "底色用墨黑，标题用明黄，亮蓝作少量点缀。"
+    },
+    {
+      "id": 72,
+      "number": "072",
+      "name": "年轻脉冲",
+      "category": "五、现代主义三色组合（9组）",
+      "colors": [
+        {
+          "name": "荧光粉",
+          "hex": "#FF4081"
+        },
+        {
+          "name": "荧光绿",
+          "hex": "#00E676"
+        },
+        {
+          "name": "炭黑",
+          "hex": "#141414"
+        }
+      ],
+      "topics": [
+        "消费",
+        "活动",
+        "创意"
+      ],
+      "moods": [
+        "年轻",
+        "兴奋"
+      ],
+      "purposes": [
+        "发布",
+        "作品展示"
+      ],
+      "intensity": 5,
+      "bg_tone": "dark",
+      "bg_luminance": 0.007,
+      "roles": {
+        "background": "#141414",
+        "title": "#00E676",
+        "body": "#00E676",
+        "accent": "#FF4081",
+        "title_contrast": 11.04,
+        "large_only": false
+      },
+      "usage": "底色用炭黑，标题用荧光绿，荧光粉作少量点缀。"
+    },
+    {
+      "id": 73,
+      "number": "073",
+      "name": "平衡力量",
+      "category": "五、现代主义三色组合（9组）",
+      "colors": [
+        {
+          "name": "琥珀橙",
+          "hex": "#FF8F00"
+        },
+        {
+          "name": "青蓝",
+          "hex": "#00ACC1"
+        },
+        {
+          "name": "炭黑",
+          "hex": "#171717"
+        }
+      ],
+      "topics": [
+        "商业",
+        "科技",
+        "设计"
+      ],
+      "moods": [
+        "有力",
+        "克制"
+      ],
+      "purposes": [
+        "解释",
+        "发布"
+      ],
+      "intensity": 4,
+      "bg_tone": "dark",
+      "bg_luminance": 0.0086,
+      "roles": {
+        "background": "#171717",
+        "title": "#FF8F00",
+        "body": "#FF8F00",
+        "accent": "#00ACC1",
+        "title_contrast": 7.83,
+        "large_only": false
+      },
+      "usage": "底色用炭黑，标题用琥珀橙，青蓝作少量点缀。"
+    },
+    {
+      "id": 74,
+      "number": "074",
+      "name": "冷感实验",
+      "category": "五、现代主义三色组合（9组）",
+      "colors": [
+        {
+          "name": "电光紫",
+          "hex": "#7C4DFF"
+        },
+        {
+          "name": "青柠绿",
+          "hex": "#64DD17"
+        },
+        {
+          "name": "近黑",
+          "hex": "#0F0F0F"
+        }
+      ],
+      "topics": [
+        "科技",
+        "设计",
+        "创意"
+      ],
+      "moods": [
+        "冷静",
+        "大胆"
+      ],
+      "purposes": [
+        "作品展示",
+        "发布"
+      ],
+      "intensity": 4,
+      "bg_tone": "dark",
+      "bg_luminance": 0.0048,
+      "roles": {
+        "background": "#0F0F0F",
+        "title": "#64DD17",
+        "body": "#64DD17",
+        "accent": "#7C4DFF",
+        "title_contrast": 10.85,
+        "large_only": false
+      },
+      "usage": "底色用近黑，标题用青柠绿，电光紫作少量点缀。"
+    },
+    {
+      "id": 75,
+      "number": "075",
+      "name": "蓝橙先锋",
+      "category": "五、现代主义三色组合（9组）",
+      "colors": [
+        {
+          "name": "活力橙",
+          "hex": "#FF6B35"
+        },
+        {
+          "name": "晴空蓝",
+          "hex": "#2F80ED"
+        },
+        {
+          "name": "近黑",
+          "hex": "#111111"
+        }
+      ],
+      "topics": [
+        "创业",
+        "科技",
+        "活动"
+      ],
+      "moods": [
+        "大胆",
+        "有力"
+      ],
+      "purposes": [
+        "发布",
+        "解释"
+      ],
+      "intensity": 5,
+      "bg_tone": "dark",
+      "bg_luminance": 0.0056,
+      "roles": {
+        "background": "#111111",
+        "title": "#FF6B35",
+        "body": "#FF6B35",
+        "accent": "#2F80ED",
+        "title_contrast": 6.66,
+        "large_only": false
+      },
+      "usage": "底色用近黑，标题用活力橙，晴空蓝作少量点缀。"
+    },
+    {
+      "id": 76,
+      "number": "076",
+      "name": "绿橙活力",
+      "category": "五、现代主义三色组合（9组）",
+      "colors": [
+        {
+          "name": "鲜绿",
+          "hex": "#00C853"
+        },
+        {
+          "name": "珊瑚橙",
+          "hex": "#FF7043"
+        },
+        {
+          "name": "近黑",
+          "hex": "#121212"
+        }
+      ],
+      "topics": [
+        "生活",
+        "运动",
+        "消费"
+      ],
+      "moods": [
+        "活泼",
+        "年轻"
+      ],
+      "purposes": [
+        "分享",
+        "发布"
+      ],
+      "intensity": 4,
+      "bg_tone": "dark",
+      "bg_luminance": 0.006,
+      "roles": {
+        "background": "#121212",
+        "title": "#00C853",
+        "body": "#00C853",
+        "accent": "#FF7043",
+        "title_contrast": 8.38,
+        "large_only": false
+      },
+      "usage": "底色用近黑，标题用鲜绿，珊瑚橙作少量点缀。"
+    },
+    {
+      "id": 77,
+      "number": "077",
+      "name": "沉静金光",
+      "category": "五、现代主义三色组合（9组）",
+      "colors": [
+        {
+          "name": "青绿",
+          "hex": "#009688"
+        },
+        {
+          "name": "琥珀黄",
+          "hex": "#FFB300"
+        },
+        {
+          "name": "近黑",
+          "hex": "#181818"
+        }
+      ],
+      "topics": [
+        "财经",
+        "商业",
+        "效率"
+      ],
+      "moods": [
+        "沉稳",
+        "有力"
+      ],
+      "purposes": [
+        "解释",
+        "教程"
+      ],
+      "intensity": 3,
+      "bg_tone": "dark",
+      "bg_luminance": 0.0091,
+      "roles": {
+        "background": "#181818",
+        "title": "#FFB300",
+        "body": "#FFB300",
+        "accent": "#009688",
+        "title_contrast": 9.9,
+        "large_only": false
+      },
+      "usage": "底色用近黑，标题用琥珀黄，青绿作少量点缀。"
+    },
+    {
+      "id": 78,
+      "number": "078",
+      "name": "都会锐色",
+      "category": "五、现代主义三色组合（9组）",
+      "colors": [
+        {
+          "name": "玫红",
+          "hex": "#FF2D55"
+        },
+        {
+          "name": "靛蓝紫",
+          "hex": "#4F46E5"
+        },
+        {
+          "name": "近黑",
+          "hex": "#161616"
+        }
+      ],
+      "topics": [
+        "设计",
+        "消费",
+        "城市"
+      ],
+      "moods": [
+        "锋利",
+        "年轻"
+      ],
+      "purposes": [
+        "发布",
+        "作品展示"
+      ],
+      "intensity": 5,
+      "bg_tone": "dark",
+      "bg_luminance": 0.008,
+      "roles": {
+        "background": "#161616",
+        "title": "#FF2D55",
+        "body": "#FF2D55",
+        "accent": "#4F46E5",
+        "title_contrast": 4.96,
+        "large_only": false
+      },
+      "usage": "底色用近黑，标题用玫红，靛蓝紫作少量点缀。"
+    },
+    {
+      "id": 79,
+      "number": "079",
+      "name": "数字未来",
+      "category": "五、现代主义三色组合（9组）",
+      "colors": [
+        {
+          "name": "亮紫",
+          "hex": "#A100FF"
+        },
+        {
+          "name": "电光青",
+          "hex": "#00D9FF"
+        },
+        {
+          "name": "近黑",
+          "hex": "#101010"
+        }
+      ],
+      "topics": [
+        "科技",
+        "创意",
+        "音乐"
+      ],
+      "moods": [
+        "兴奋",
+        "神秘"
+      ],
+      "purposes": [
+        "发布",
+        "作品展示"
+      ],
+      "intensity": 5,
+      "bg_tone": "dark",
+      "bg_luminance": 0.0052,
+      "roles": {
+        "background": "#101010",
+        "title": "#00D9FF",
+        "body": "#00D9FF",
+        "accent": "#A100FF",
+        "title_contrast": 11.2,
+        "large_only": false
+      },
+      "usage": "底色用近黑，标题用电光青，亮紫作少量点缀。"
+    },
+    {
+      "id": 80,
+      "number": "080",
+      "name": "深林薄荷",
+      "category": "六、自然系 & 棕色系层次配色（12组）",
+      "colors": [
+        {
+          "name": "深林绿",
+          "hex": "#102F15"
+        },
+        {
+          "name": "鼠尾草",
+          "hex": "#728C5A"
+        },
+        {
+          "name": "浅黄绿",
+          "hex": "#EAF1B1"
+        },
+        {
+          "name": "薄荷",
+          "hex": "#EBFADC"
+        }
+      ],
+      "topics": [
+        "自然",
+        "旅行",
+        "生活"
+      ],
+      "moods": [
+        "自然",
+        "清爽"
+      ],
+      "purposes": [
+        "分享",
+        "叙事"
+      ],
+      "intensity": 2,
+      "bg_tone": "light",
+      "bg_luminance": 0.912,
+      "roles": {
+        "background": "#EBFADC",
+        "title": "#102F15",
+        "body": "#102F15",
+        "accent": "#728C5A",
+        "title_contrast": 13.36,
+        "large_only": false
+      },
+      "usage": "底色用薄荷，标题用深林绿，鼠尾草作少量点缀。"
+    },
+    {
+      "id": 81,
+      "number": "081",
+      "name": "军绿裸粉",
+      "category": "六、自然系 & 棕色系层次配色（12组）",
+      "colors": [
+        {
+          "name": "暗影黑",
+          "hex": "#242115"
+        },
+        {
+          "name": "军绿",
+          "hex": "#575C34"
+        },
+        {
+          "name": "纽约粉",
+          "hex": "#C7736E"
+        },
+        {
+          "name": "浅裸",
+          "hex": "#EBE1E1"
+        }
+      ],
+      "topics": [
+        "设计",
+        "建筑",
+        "生活"
+      ],
+      "moods": [
+        "克制",
+        "沉稳"
+      ],
+      "purposes": [
+        "作品展示",
+        "叙事"
+      ],
+      "intensity": 2,
+      "bg_tone": "light",
+      "bg_luminance": 0.7695,
+      "roles": {
+        "background": "#EBE1E1",
+        "title": "#242115",
+        "body": "#242115",
+        "accent": "#575C34",
+        "title_contrast": 12.57,
+        "large_only": false
+      },
+      "usage": "底色用浅裸，标题用暗影黑，军绿作少量点缀。"
+    },
+    {
+      "id": 82,
+      "number": "082",
+      "name": "苔藓粉境",
+      "category": "六、自然系 & 棕色系层次配色（12组）",
+      "colors": [
+        {
+          "name": "丛林绿",
+          "hex": "#1C2A1A"
+        },
+        {
+          "name": "苔藓绿",
+          "hex": "#405418"
+        },
+        {
+          "name": "鼠尾草",
+          "hex": "#BBC397"
+        },
+        {
+          "name": "肉粉",
+          "hex": "#FFC9C4"
+        }
+      ],
+      "topics": [
+        "自然",
+        "生活",
+        "手作"
+      ],
+      "moods": [
+        "柔和",
+        "自然"
+      ],
+      "purposes": [
+        "分享",
+        "叙事"
+      ],
+      "intensity": 2,
+      "bg_tone": "light",
+      "bg_luminance": 0.6702,
+      "roles": {
+        "background": "#FFC9C4",
+        "title": "#1C2A1A",
+        "body": "#1C2A1A",
+        "accent": "#405418",
+        "title_contrast": 10.32,
+        "large_only": false
+      },
+      "usage": "底色用肉粉，标题用丛林绿，苔藓绿作少量点缀。"
+    },
+    {
+      "id": 83,
+      "number": "083",
+      "name": "绿野骨白",
+      "category": "六、自然系 & 棕色系层次配色（12组）",
+      "colors": [
+        {
+          "name": "酞菁绿",
+          "hex": "#103713"
+        },
+        {
+          "name": "最大绿",
+          "hex": "#628B35"
+        },
+        {
+          "name": "骨白",
+          "hex": "#E2DBD0"
+        },
+        {
+          "name": "奶白",
+          "hex": "#FFFFFF"
+        }
+      ],
+      "topics": [
+        "自然",
+        "饮食",
+        "健康"
+      ],
+      "moods": [
+        "自然",
+        "安静"
+      ],
+      "purposes": [
+        "分享",
+        "解释"
+      ],
+      "intensity": 1,
+      "bg_tone": "light",
+      "bg_luminance": 0.7139,
+      "roles": {
+        "background": "#E2DBD0",
+        "title": "#103713",
+        "body": "#103713",
+        "accent": "#628B35",
+        "title_contrast": 9.68,
+        "large_only": false
+      },
+      "usage": "底色用骨白，标题用酞菁绿，最大绿作少量点缀。"
+    },
+    {
+      "id": 84,
+      "number": "084",
+      "name": "麦穗可可",
+      "category": "六、自然系 & 棕色系层次配色（12组）",
+      "colors": [
+        {
+          "name": "麦穗",
+          "hex": "#E2D1C9"
+        },
+        {
+          "name": "麻棕",
+          "hex": "#B49D7D"
+        },
+        {
+          "name": "铜溪",
+          "hex": "#A65F31"
+        },
+        {
+          "name": "巧克力",
+          "hex": "#563822"
+        }
+      ],
+      "topics": [
+        "饮食",
+        "手作",
+        "生活"
+      ],
+      "moods": [
+        "温暖",
+        "怀旧"
+      ],
+      "purposes": [
+        "分享",
+        "教程"
+      ],
+      "intensity": 2,
+      "bg_tone": "light",
+      "bg_luminance": 0.6599,
+      "roles": {
+        "background": "#E2D1C9",
+        "title": "#563822",
+        "body": "#563822",
+        "accent": "#A65F31",
+        "title_contrast": 7.16,
+        "large_only": false
+      },
+      "usage": "底色用麦穗，标题用巧克力，铜溪作少量点缀。"
+    },
+    {
+      "id": 85,
+      "number": "085",
+      "name": "水牛云山",
+      "category": "六、自然系 & 棕色系层次配色（12组）",
+      "colors": [
+        {
+          "name": "水牛灰",
+          "hex": "#2F2F35"
+        },
+        {
+          "name": "云山蓝",
+          "hex": "#2F90B9"
+        }
+      ],
+      "topics": [
+        "科技",
+        "建筑",
+        "商业"
+      ],
+      "moods": [
+        "冷静",
+        "沉稳"
+      ],
+      "purposes": [
+        "解释",
+        "作品展示"
+      ],
+      "intensity": 2,
+      "bg_tone": "dark",
+      "bg_luminance": 0.0289,
+      "roles": {
+        "background": "#2F2F35",
+        "title": "#2F90B9",
+        "body": "#FFFFFF",
+        "accent": "#2F90B9",
+        "title_contrast": 3.68,
+        "large_only": true
+      },
+      "usage": "底色用水牛灰，标题用云山蓝，云山蓝作少量点缀。标题只适合大字，小字另用正文色。"
+    },
+    {
+      "id": 86,
+      "number": "086",
+      "name": "晴蓝古鼎",
+      "category": "六、自然系 & 棕色系层次配色（12组）",
+      "colors": [
+        {
+          "name": "晴蓝",
+          "hex": "#5698C3"
+        },
+        {
+          "name": "古鼎灰",
+          "hex": "#36292F"
+        }
+      ],
+      "topics": [
+        "旅行",
+        "城市",
+        "生活"
+      ],
+      "moods": [
+        "清爽",
+        "克制"
+      ],
+      "purposes": [
+        "分享",
+        "叙事"
+      ],
+      "intensity": 2,
+      "bg_tone": "dark",
+      "bg_luminance": 0.0258,
+      "roles": {
+        "background": "#36292F",
+        "title": "#5698C3",
+        "body": "#FFFFFF",
+        "accent": "#5698C3",
+        "title_contrast": 4.4,
+        "large_only": true
+      },
+      "usage": "底色用古鼎灰，标题用晴蓝，晴蓝作少量点缀。标题只适合大字，小字另用正文色。"
+    },
+    {
+      "id": 87,
+      "number": "087",
+      "name": "灰蓝掠影",
+      "category": "六、自然系 & 棕色系层次配色（12组）",
+      "colors": [
+        {
+          "name": "苍蝇灰",
+          "hex": "#36282B"
+        },
+        {
+          "name": "尼罗蓝",
+          "hex": "#2474B5"
+        }
+      ],
+      "topics": [
+        "城市",
+        "文化",
+        "设计"
+      ],
+      "moods": [
+        "克制",
+        "冷静"
+      ],
+      "purposes": [
+        "叙事",
+        "作品展示"
+      ],
+      "intensity": 2,
+      "bg_tone": "dark",
+      "bg_luminance": 0.0248,
+      "roles": {
+        "background": "#36282B",
+        "title": "#FFFFFF",
+        "body": "#FFFFFF",
+        "accent": "#2474B5",
+        "title_contrast": 14.04,
+        "large_only": false
+      },
+      "usage": "底色用苍蝇灰，标题用辅助字色，尼罗蓝作少量点缀。标题字色是为读字补的中性色，不计入原配色。"
+    },
+    {
+      "id": 88,
+      "number": "088",
+      "name": "黄昏钴蓝",
+      "category": "六、自然系 & 棕色系层次配色（12组）",
+      "colors": [
+        {
+          "name": "黄昏灰",
+          "hex": "#474B4C"
+        },
+        {
+          "name": "钴蓝",
+          "hex": "#2B73AF"
+        }
+      ],
+      "topics": [
+        "城市",
+        "旅行",
+        "情绪"
+      ],
+      "moods": [
+        "安静",
+        "怀旧"
+      ],
+      "purposes": [
+        "叙事",
+        "纪念"
+      ],
+      "intensity": 1,
+      "bg_tone": "dark",
+      "bg_luminance": 0.0689,
+      "roles": {
+        "background": "#474B4C",
+        "title": "#FFFFFF",
+        "body": "#FFFFFF",
+        "accent": "#2B73AF",
+        "title_contrast": 8.83,
+        "large_only": false
+      },
+      "usage": "底色用黄昏灰，标题用辅助字色，钴蓝作少量点缀。标题字色是为读字补的中性色，不计入原配色。"
+    },
+    {
+      "id": 89,
+      "number": "089",
+      "name": "安蓝长石",
+      "category": "六、自然系 & 棕色系层次配色（12组）",
+      "colors": [
+        {
+          "name": "安安蓝",
+          "hex": "#3170A7"
+        },
+        {
+          "name": "长石灰",
+          "hex": "#363433"
+        }
+      ],
+      "topics": [
+        "商业",
+        "城市",
+        "资讯"
+      ],
+      "moods": [
+        "沉稳",
+        "冷静"
+      ],
+      "purposes": [
+        "解释",
+        "分享"
+      ],
+      "intensity": 2,
+      "bg_tone": "dark",
+      "bg_luminance": 0.0348,
+      "roles": {
+        "background": "#363433",
+        "title": "#FFFFFF",
+        "body": "#FFFFFF",
+        "accent": "#3170A7",
+        "title_contrast": 12.38,
+        "large_only": false
+      },
+      "usage": "底色用长石灰，标题用辅助字色，安安蓝作少量点缀。标题字色是为读字补的中性色，不计入原配色。"
+    },
+    {
+      "id": 90,
+      "number": "090",
+      "name": "飞燕牛角",
+      "category": "六、自然系 & 棕色系层次配色（12组）",
+      "colors": [
+        {
+          "name": "飞燕草蓝",
+          "hex": "#0F59A4"
+        },
+        {
+          "name": "牛角灰",
+          "hex": "#2D2E36"
+        }
+      ],
+      "topics": [
+        "科技",
+        "城市",
+        "设计"
+      ],
+      "moods": [
+        "冷静",
+        "坚定"
+      ],
+      "purposes": [
+        "解释",
+        "作品展示"
+      ],
+      "intensity": 3,
+      "bg_tone": "dark",
+      "bg_luminance": 0.0278,
+      "roles": {
+        "background": "#2D2E36",
+        "title": "#FFFFFF",
+        "body": "#FFFFFF",
+        "accent": "#0F59A4",
+        "title_contrast": 13.5,
+        "large_only": false
+      },
+      "usage": "底色用牛角灰，标题用辅助字色，飞燕草蓝作少量点缀。标题字色是为读字补的中性色，不计入原配色。"
+    },
+    {
+      "id": 91,
+      "number": "091",
+      "name": "绿意茶白",
+      "category": "六、自然系 & 棕色系层次配色（12组）",
+      "colors": [
+        {
+          "name": "马尔斯绿",
+          "hex": "#008C8D"
+        },
+        {
+          "name": "茶白",
+          "hex": "#F3F9F1"
+        }
+      ],
+      "topics": [
+        "自然",
+        "健康",
+        "生活"
+      ],
+      "moods": [
+        "自然",
+        "清爽"
+      ],
+      "purposes": [
+        "解释",
+        "分享"
+      ],
+      "intensity": 1,
+      "bg_tone": "light",
+      "bg_luminance": 0.9316,
+      "roles": {
+        "background": "#F3F9F1",
+        "title": "#008C8D",
+        "body": "#000000",
+        "accent": "#008C8D",
+        "title_contrast": 3.82,
+        "large_only": true
+      },
+      "usage": "底色用茶白，标题用马尔斯绿，马尔斯绿作少量点缀。标题只适合大字，小字另用正文色。"
+    },
+    {
+      "id": 92,
+      "number": "092",
+      "name": "珊瑚帝青",
+      "category": "七、中国色 & 文化意象撞色（5组）",
+      "colors": [
+        {
+          "name": "珊瑚赫",
+          "hex": "#C12C1F"
+        },
+        {
+          "name": "帝释青",
+          "hex": "#003460"
+        }
+      ],
+      "topics": [
+        "文化",
+        "旅行",
+        "手作"
+      ],
+      "moods": [
+        "坚定",
+        "怀旧"
+      ],
+      "purposes": [
+        "叙事",
+        "作品展示"
+      ],
+      "intensity": 3,
+      "bg_tone": "dark",
+      "bg_luminance": 0.033,
+      "roles": {
+        "background": "#003460",
+        "title": "#FFFFFF",
+        "body": "#FFFFFF",
+        "accent": "#C12C1F",
+        "title_contrast": 12.65,
+        "large_only": false
+      },
+      "usage": "底色用帝释青，标题用辅助字色，珊瑚赫作少量点缀。标题字色是为读字补的中性色，不计入原配色。"
+    },
+    {
+      "id": 93,
+      "number": "093",
+      "name": "欧碧绛纱",
+      "category": "七、中国色 & 文化意象撞色（5组）",
+      "colors": [
+        {
+          "name": "欧碧",
+          "hex": "#C0D695"
+        },
+        {
+          "name": "绛纱",
+          "hex": "#B27777"
+        }
+      ],
+      "topics": [
+        "文化",
+        "生活",
+        "情绪"
+      ],
+      "moods": [
+        "柔和",
+        "怀旧"
+      ],
+      "purposes": [
+        "叙事",
+        "分享"
+      ],
+      "intensity": 1,
+      "bg_tone": "light",
+      "bg_luminance": 0.6147,
+      "roles": {
+        "background": "#C0D695",
+        "title": "#000000",
+        "body": "#000000",
+        "accent": "#B27777",
+        "title_contrast": 13.29,
+        "large_only": false
+      },
+      "usage": "底色用欧碧，标题用辅助字色，绛纱作少量点缀。标题字色是为读字补的中性色，不计入原配色。"
+    },
+    {
+      "id": 94,
+      "number": "094",
+      "name": "栀子群青",
+      "category": "七、中国色 & 文化意象撞色（5组）",
+      "colors": [
+        {
+          "name": "栀子",
+          "hex": "#FAC03D"
+        },
+        {
+          "name": "群青",
+          "hex": "#2E59A7"
+        }
+      ],
+      "topics": [
+        "文化",
+        "教育",
+        "旅行"
+      ],
+      "moods": [
+        "明快",
+        "坚定"
+      ],
+      "purposes": [
+        "教程",
+        "分享"
+      ],
+      "intensity": 3,
+      "bg_tone": "light",
+      "bg_luminance": 0.5836,
+      "roles": {
+        "background": "#FAC03D",
+        "title": "#2E59A7",
+        "body": "#000000",
+        "accent": "#2E59A7",
+        "title_contrast": 4.08,
+        "large_only": true
+      },
+      "usage": "底色用栀子，标题用群青，群青作少量点缀。标题只适合大字，小字另用正文色。"
+    },
+    {
+      "id": 95,
+      "number": "095",
+      "name": "深蓝鎏橘",
+      "category": "七、中国色 & 文化意象撞色（5组）",
+      "colors": [
+        {
+          "name": "骐驎",
+          "hex": "#12264F"
+        },
+        {
+          "name": "库金",
+          "hex": "#E18A3B"
+        }
+      ],
+      "topics": [
+        "文化",
+        "商业",
+        "设计"
+      ],
+      "moods": [
+        "沉稳",
+        "有力"
+      ],
+      "purposes": [
+        "发布",
+        "作品展示"
+      ],
+      "intensity": 3,
+      "bg_tone": "dark",
+      "bg_luminance": 0.0208,
+      "roles": {
+        "background": "#12264F",
+        "title": "#E18A3B",
+        "body": "#E18A3B",
+        "accent": "#E18A3B",
+        "title_contrast": 5.58,
+        "large_only": false
+      },
+      "usage": "底色用骐驎，标题用库金，库金作少量点缀。"
+    },
+    {
+      "id": 96,
+      "number": "096",
+      "name": "紫夜官绿",
+      "category": "七、中国色 & 文化意象撞色（5组）",
+      "colors": [
+        {
+          "name": "凝夜紫",
+          "hex": "#422256"
+        },
+        {
+          "name": "官绿",
+          "hex": "#2A6E3F"
+        }
+      ],
+      "topics": [
+        "文化",
+        "自然",
+        "设计"
+      ],
+      "moods": [
+        "安静",
+        "神秘"
+      ],
+      "purposes": [
+        "叙事",
+        "作品展示"
+      ],
+      "intensity": 2,
+      "bg_tone": "dark",
+      "bg_luminance": 0.0297,
+      "roles": {
+        "background": "#422256",
+        "title": "#FFFFFF",
+        "body": "#FFFFFF",
+        "accent": "#2A6E3F",
+        "title_contrast": 13.17,
+        "large_only": false
+      },
+      "usage": "底色用凝夜紫，标题用辅助字色，官绿作少量点缀。标题字色是为读字补的中性色，不计入原配色。"
+    },
+    {
+      "id": 97,
+      "number": "097",
+      "name": "绿野玫粉",
+      "category": "八、经典渐变 & 互补补充（4组）",
+      "colors": [
+        {
+          "name": "马尔斯绿",
+          "hex": "#01847F"
+        },
+        {
+          "name": "玫瑰粉",
+          "hex": "#F9D2E4"
+        }
+      ],
+      "topics": [
+        "情绪",
+        "生活",
+        "自然"
+      ],
+      "moods": [
+        "柔和",
+        "清爽"
+      ],
+      "purposes": [
+        "叙事",
+        "分享"
+      ],
+      "intensity": 2,
+      "bg_tone": "light",
+      "bg_luminance": 0.7183,
+      "roles": {
+        "background": "#F9D2E4",
+        "title": "#01847F",
+        "body": "#000000",
+        "accent": "#01847F",
+        "title_contrast": 3.33,
+        "large_only": true
+      },
+      "usage": "底色用玫瑰粉，标题用马尔斯绿，马尔斯绿作少量点缀。标题只适合大字，小字另用正文色。"
+    },
+    {
+      "id": 98,
+      "number": "098",
+      "name": "天青朱砂",
+      "category": "八、经典渐变 & 互补补充（4组）",
+      "colors": [
+        {
+          "name": "天青",
+          "hex": "#BFDEFF"
+        },
+        {
+          "name": "朱砂",
+          "hex": "#D30121"
+        }
+      ],
+      "topics": [
+        "文化",
+        "设计",
+        "活动"
+      ],
+      "moods": [
+        "明快",
+        "有力"
+      ],
+      "purposes": [
+        "作品展示",
+        "发布"
+      ],
+      "intensity": 4,
+      "bg_tone": "light",
+      "bg_luminance": 0.7054,
+      "roles": {
+        "background": "#BFDEFF",
+        "title": "#D30121",
+        "body": "#000000",
+        "accent": "#D30121",
+        "title_contrast": 3.98,
+        "large_only": true
+      },
+      "usage": "底色用天青，标题用朱砂，朱砂作少量点缀。标题只适合大字，小字另用正文色。"
+    },
+    {
+      "id": 99,
+      "number": "099",
+      "name": "琥珀青雀",
+      "category": "八、经典渐变 & 互补补充（4组）",
+      "colors": [
+        {
+          "name": "琥珀黄",
+          "hex": "#F9B800"
+        },
+        {
+          "name": "青雀头",
+          "hex": "#153C46"
+        }
+      ],
+      "topics": [
+        "文化",
+        "饮食",
+        "旅行"
+      ],
+      "moods": [
+        "温暖",
+        "沉稳"
+      ],
+      "purposes": [
+        "分享",
+        "叙事"
+      ],
+      "intensity": 3,
+      "bg_tone": "dark",
+      "bg_luminance": 0.0383,
+      "roles": {
+        "background": "#153C46",
+        "title": "#F9B800",
+        "body": "#F9B800",
+        "accent": "#F9B800",
+        "title_contrast": 6.73,
+        "large_only": false
+      },
+      "usage": "底色用青雀头，标题用琥珀黄，琥珀黄作少量点缀。"
+    },
+    {
+      "id": 100,
+      "number": "100",
+      "name": "蓝白澄明",
+      "category": "八、经典渐变 & 互补补充（4组）",
+      "colors": [
+        {
+          "name": "克莱因蓝",
+          "hex": "#0B3289"
+        },
+        {
+          "name": "莹白",
+          "hex": "#E3F9FD"
+        }
+      ],
+      "topics": [
+        "科技",
+        "旅行",
+        "资讯"
+      ],
+      "moods": [
+        "冷静",
+        "清爽"
+      ],
+      "purposes": [
+        "解释",
+        "分享"
+      ],
+      "intensity": 2,
+      "bg_tone": "light",
+      "bg_luminance": 0.9117,
+      "roles": {
+        "background": "#E3F9FD",
+        "title": "#0B3289",
+        "body": "#0B3289",
+        "accent": "#0B3289",
+        "title_contrast": 10.5,
+        "large_only": false
+      },
+      "usage": "底色用莹白，标题用克莱因蓝，克莱因蓝作少量点缀。"
+    }
+  ]
+}

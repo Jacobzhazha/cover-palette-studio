@@ -1,0 +1,119 @@
+{
+  "version": "1.0.0",
+  "platforms": {
+    "wechat": {
+      "label": "微信公众号横版封面",
+      "width": 1800,
+      "height": 766,
+      "ai_ratio": "21:9",
+      "fallback_ai_ratio": "16:9",
+      "layout_orientation": "landscape"
+    },
+    "wechat-square": {
+      "label": "微信公众号分享方图",
+      "width": 1080,
+      "height": 1080,
+      "ai_ratio": "1:1",
+      "fallback_ai_ratio": "1:1",
+      "layout_orientation": "square"
+    },
+    "xiaohongshu": {
+      "label": "小红书竖版封面",
+      "width": 1080,
+      "height": 1440,
+      "ai_ratio": "3:4",
+      "fallback_ai_ratio": "3:4",
+      "layout_orientation": "portrait"
+    },
+    "video": {
+      "label": "B站 / YouTube 横版封面",
+      "width": 1920,
+      "height": 1080,
+      "ai_ratio": "16:9",
+      "fallback_ai_ratio": "16:9",
+      "layout_orientation": "landscape"
+    },
+    "x": {
+      "label": "X / Twitter 文章封面",
+      "width": 1500,
+      "height": 600,
+      "ai_ratio": "21:9",
+      "fallback_ai_ratio": "16:9",
+      "layout_orientation": "landscape"
+    }
+  },
+  "layouts": [
+    {
+      "id": "editorial-split",
+      "name": "杂志编辑双栏风",
+      "allowed_tones": ["light", "dark"],
+      "engines": ["engine-a", "engine-b"],
+      "best_for": ["科技", "商业", "效率", "财经", "教程", "解释"],
+      "summary": "大面积纯色呼吸区排高对比超大标题，另一侧放单一干净的视觉主体，绝不杂乱。",
+      "ai_style_prompt": "Modern independent editorial magazine cover (Monocle / Stripe aesthetic). Flat matte paper/cardstock color field with subtle tactile grain, clean asymmetric split layout: 60% generous quiet color space for bold flat Chinese editorial typography (NO drop shadows, NO 3D WordArt), 40% hosting one crisp minimalist visual metaphor."
+    },
+    {
+      "id": "swiss-grid-card",
+      "name": "瑞士网格高亮卡",
+      "allowed_tones": ["light", "dark"],
+      "engines": ["engine-a", "engine-b"],
+      "best_for": ["效率", "教育", "教程", "工具", "分享", "清单"],
+      "summary": "微妙建筑细网格＋强调色刀锋竖条＋核心词高亮色块，信息流小图识别速度最快。",
+      "ai_style_prompt": "Swiss International Graphic Design poster cover. Subtle fine architectural grid lines over the dominant background, crisp bold accent vertical rule, ultra-clean bold Chinese sans-serif headline with one key phrase framed in a sharp flat color block, paired with one compact tactile object icon."
+    },
+    {
+      "id": "swiss-typo-pure",
+      "name": "零生图纯大字撞色风",
+      "allowed_tones": ["light", "dark"],
+      "engines": ["engine-a"],
+      "best_for": ["观点", "复盘", "清单", "资讯", "快速出图"],
+      "summary": "无需调用任何生图模型，纯靠 100 套精确 HEX、几何构成色块与编辑级大字排版 1 秒出高级封面。",
+      "ai_style_prompt": "Pure Swiss typographic editorial poster with bold flat geometric accent shapes and high-contrast Chinese typography only."
+    },
+    {
+      "id": "retro-torn-collage",
+      "name": "复古手撕拼贴风",
+      "allowed_tones": ["light"],
+      "engines": ["engine-b"],
+      "best_for": ["创业", "生活", "消费", "分享", "小红书"],
+      "summary": "旧纸张撕裂边缘＋美纹胶带＋半调网点插画，小红书双列瀑布流辨识度极高（仅适配浅底色卡）。",
+      "ai_style_prompt": "Handcrafted retro torn-paper editorial collage poster. Authentic torn newsprint/cream paper layers, translucent masking tape strips, halftone monochrome cutout illustration, subtle photocopy grain, crisp bold ink headline layered over torn paper strips with tomato/accent highlight blocks. NO clean flat vector clipart."
+    },
+    {
+      "id": "midcentury-editorial",
+      "name": "复古时代错位杂志风",
+      "allowed_tones": ["light"],
+      "engines": ["engine-b"],
+      "best_for": ["科技", "AI", "创意", "文化", "阅读"],
+      "summary": "1950s–60s 复古印刷插画人物操作当代工具，幽默有记忆点（仅适配浅底色卡）。",
+      "ai_style_prompt": "1950s-1960s mid-century commercial illustration editorial cover on matte textured light background. Flat silkscreen/halftone vintage illustration of one character performing a modern AI/tech action as a clever single visual metaphor, paired with crisp flat modern editorial Chinese typography. NO drop shadows."
+    },
+    {
+      "id": "modernist-noir",
+      "name": "暗黑现代主义版画风",
+      "allowed_tones": ["dark"],
+      "engines": ["engine-b"],
+      "best_for": ["科技", "商业", "财经", "深度评测", "解释"],
+      "summary": "Saul Bass 风格几何版画＋大面积深底负空间＋高对比强调色，克制锋利（仅适配深底色卡）。",
+      "ai_style_prompt": "Mid-century modernist noir book cover (Saul Bass geometric graphic illustration style). Full-bleed deep matte dark background with subtle vintage paper grain, one bold flat geometric visual metaphor rendered in stencil-like shapes using strictly the specified accent colors, crisp flat editorial Chinese headline with ZERO neon glow and ZERO drop shadows."
+    },
+    {
+      "id": "pixel-metaphor-level",
+      "name": "2D 像素闯关隐喻风",
+      "allowed_tones": ["dark"],
+      "engines": ["engine-b"],
+      "best_for": ["教程", "避坑", "科技", "效率", "成长"],
+      "summary": "把抽象主题做成一关 16-bit 独立游戏过关关卡，好玩、有故事感、一眼想点（仅适配深底色卡）。",
+      "ai_style_prompt": "Handcrafted crisp 16-bit indie game pixel-art editorial poster (Celeste / Fez key art aesthetic) on deep dark matte stage. Translate the article topic into one playable side-scrolling game level with one pixel character, clear obstacles/platforms, and a glowing goal, topped by flat bold crisp Chinese typography with ZERO beveled glow."
+    },
+    {
+      "id": "oriental-minimal",
+      "name": "东方极简留白风",
+      "allowed_tones": ["light"],
+      "engines": ["engine-a", "engine-b"],
+      "best_for": ["文化", "阅读", "自然", "健康", "手作"],
+      "summary": "大面积温润宣纸/淡色留白＋克制宋体大字＋一枚精致意象印记，雅致耐看（仅适配浅底色卡）。",
+      "ai_style_prompt": "Quiet contemporary East Asian editorial book-cover design. Generous matte warm paper negative space, refined high-contrast Chinese serif typography, one restrained poetic object or ink-seal accent using strictly the assigned palette HEX values. Zero clutter."
+    }
+  ]
+}
